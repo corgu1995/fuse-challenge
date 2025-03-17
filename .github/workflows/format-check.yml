@@ -21,4 +21,4 @@ jobs:
         run: pnpm install
 
       - name: Check format
-        run: pnpm run format -- --check
+        run: pnpm run format:check
