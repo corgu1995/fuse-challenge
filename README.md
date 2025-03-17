@@ -9,12 +9,14 @@ This project is a take-home challenge elaborated for Fuse. It includes configura
 ## Setup
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/your-username/fuse-challenge.git
    cd fuse-challenge
    ```
 
 2. Install dependencies using pnpm:
+
    ```sh
    pnpm install
    ```
@@ -28,11 +30,13 @@ This project is a take-home challenge elaborated for Fuse. It includes configura
 ## Scripts
 
 - **Lint the code**:
+
   ```sh
   pnpm run lint
   ```
 
 - **Check code formatting**:
+
   ```sh
   pnpm run format:check
   ```
