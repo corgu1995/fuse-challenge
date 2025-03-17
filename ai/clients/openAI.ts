@@ -1,9 +1,7 @@
-
-import { OpenAI } from "openai";
+import { OpenAI } from 'openai';
 import dotenv from 'dotenv';
 
 dotenv.config();
-
 
 const apiKey = process.env.OPENAI_API_KEY;
 if (!apiKey) {
@@ -11,5 +9,5 @@ if (!apiKey) {
 }
 
 export const openAI = new OpenAI({
-    apiKey: apiKey,
-  });
+  apiKey: apiKey,
+});
