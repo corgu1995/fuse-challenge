@@ -1,5 +1,3 @@
-# Pull Request
-
 ## Description
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context.
@@ -12,13 +10,14 @@ Related to issue # (if applicable)
 - [ ] New feature (non-breaking change which adds tests for a new functionality)
 - [ ] Update existing feature (non-breaking change which updates tests for an existing functionality)
 - [ ] This change requires a documentation update
+- [ ] Infrastructure change (non-breaking change which affects the CI/CD process)
 
-## How Has This Been Tested?
+## Types of testing
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
+Please select the type of testing that you have performed:
 
-- [ ] Test A
-- [ ] Test B
+- [ ] Desktop
+- [ ] Mobile
 
 **Test Configuration**:
 
@@ -26,8 +25,18 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ## Checklist:
 
-- [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
+
+## Screenshots (if applicable)
+
+Please include screenshots of the changes made, if applicable.
+
+## Additional notes
+
+Add any other context about the pull request here.
+
+```
+
+```
