@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "playwright test --project='desktop-chrome'",
+    "flaky": "playwright test --repeat-each 5 --project='desktop-chrome'",
     "lint": "eslint . --ext .ts",
     "lint:check": "pnpm -r lint:check && pnpm lint:renovate",
     "lint:renovate": "renovate-config-validator",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "report:generate": "npx allure generate ./allure-results",
+    "report:open": "npx allure open ./allure-report"
   },
   "keywords": [],
   "author": "",
