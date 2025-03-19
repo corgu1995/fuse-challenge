@@ -54,6 +54,11 @@ jobs:
           ref: gh-pages
           path: gh-pages
 
+      # Change permissions of allure-history directory
+      - name: Change permissions
+        if: success()
+        run: sudo chmod -R 777 allure-history
+
       # Build test report
       - name: Build test report
         if: success()
