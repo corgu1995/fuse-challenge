@@ -30,6 +30,8 @@ jobs:
 
       # Run tests
       - name: Run Playwright tests
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: pnpm test
 
       # Generate Allure reports
