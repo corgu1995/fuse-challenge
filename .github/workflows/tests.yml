@@ -24,16 +24,22 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      # Install Playwright browsers
+      - name: Install Playwright browsers
+        run: pnpm exec playwright install
+
       # Run tests
       - name: Run Playwright tests
         run: pnpm test
 
       # Generate Allure reports
       - name: Generate Allure Report
-        run: pnpm run allure:generate
+        if: success()
+        run: pnpm run report:generate
 
       # Upload Allure report as an artifact
       - name: Upload Allure Report
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: allure-report
@@ -41,8 +47,8 @@ jobs:
 
       # Load test report history
       - name: Load test report history
+        if: success()
         uses: actions/checkout@v4
-        if: always()
         continue-on-error: true
         with:
           ref: gh-pages
@@ -50,8 +56,8 @@ jobs:
 
       # Build test report
       - name: Build test report
+        if: success()
         uses: simple-elf/allure-report-action@master
-        if: always()
         with:
           gh_pages: gh-pages
           allure_history: allure-history
@@ -59,8 +65,8 @@ jobs:
 
       # Publish Allure report to GitHub Pages
       - name: Deploy Allure Report to GitHub Pages
+        if: success()
         uses: peaceiris/actions-gh-pages@v4
-        if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
