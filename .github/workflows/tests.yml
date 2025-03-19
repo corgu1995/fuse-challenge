@@ -32,6 +32,20 @@ jobs:
       - name: Run Playwright tests
         run: pnpm test
 
+      # Generate Allure reports
+      - name: Generate Allure Report
+        if: success()
+        run: pnpm run report:generate
+
+      # Upload Allure report as an artifact
+      - name: Upload Allure Report
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          path: allure-results
+          retention-days: 20
+
       # Load test report history
       - name: Load test report history
         if: success()
@@ -44,12 +58,13 @@ jobs:
       # Build test report
       - name: Build test report
         if: success()
+        id: allure-report
         uses: simple-elf/allure-report-action@master
         with:
+          allure_results: allure-results
           gh_pages: gh-pages
-          allure_history: allure-history
-          allure_results: allure_results
           allure_report: allure-report
+          allure_history: allure-history
 
       # Publish Allure report to GitHub Pages
       - name: Deploy Allure Report to GitHub Pages
