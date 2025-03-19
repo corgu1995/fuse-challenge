@@ -79,9 +79,3 @@ jobs:
           publish_branch: gh-pages
           publish_dir: allure-history
 
-      # Notify Slack
-      - name: Notify Slack
-        if: always()
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: 'run: pnpm run slack:report'
