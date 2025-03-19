@@ -54,11 +54,6 @@ jobs:
           ref: gh-pages
           path: gh-pages
 
-      # Change permissions of allure-history directory
-      - name: Change permissions
-        if: success()
-        run: sudo chmod -R 777 allure-history
-
       # Build test report
       - name: Build test report
         if: success()
@@ -66,7 +61,7 @@ jobs:
         with:
           gh_pages: gh-pages
           allure_history: allure-history
-          allure_results: allure-report
+          allure_results: allure_results
 
       # Publish Allure report to GitHub Pages
       - name: Deploy Allure Report to GitHub Pages
