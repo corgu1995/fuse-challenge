@@ -19,6 +19,21 @@ export default defineConfig({
         channels: ['qa-ui-automation'],
         sendResults: 'always',
         slackWebHookUrl: process.env.SLACK_WEBHOOK_URL,
+        showInThread: true,
+        meta: [
+          {
+            key: 'BUILD_NUMBER',
+            value: process.env.GITHUB_RUN_NUMBER || 'N/A',
+          },
+          {
+            key: 'BRANCH_NAME',
+            value: process.env.GITHUB_REF_NAME || 'main',
+          },
+          {
+            key: 'REPORT_URL',
+            value: '<https://corgu1995.github.io/fuse-challenge|View Report>',
+          },
+        ],
       },
     ],
   ],
