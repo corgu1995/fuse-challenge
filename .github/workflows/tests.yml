@@ -15,15 +15,15 @@ jobs:
       - name: Create gh-pages branch
         if: success()
         run: |
-            git fetch origin
-            if ! git show-ref --verify --quiet refs/heads/gh-pages; then
-            git checkout --orphan gh-pages
-            git reset --hard
-            git commit --allow-empty -m "Initial gh-pages commit"
-            git push origin gh-pages
-            else
-            git checkout gh-pages
-            fi
+          git fetch origin
+          if ! git show-ref --verify --quiet refs/heads/gh-pages; then
+          git checkout --orphan gh-pages
+          git reset --hard
+          git commit --allow-empty -m "Initial gh-pages commit"
+          git push origin gh-pages
+          else
+          git checkout gh-pages
+          fi
 
       # Set up Node
       - name: Use Node.js version from .nvmrc
