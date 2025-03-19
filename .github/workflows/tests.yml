@@ -30,7 +30,7 @@ jobs:
 
       # Generate Allure reports
       - name: Generate Allure Report
-        run: pnpm exec allure generate --clean
+        run: pnpm run allure:generate
 
       # Upload Allure report as an artifact
       - name: Upload Allure Report
