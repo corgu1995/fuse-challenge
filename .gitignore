@@ -19,6 +19,7 @@ jspm_packages/
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+.DS_Store
 
 # Playwright test output
 test-results/
@@ -27,3 +28,6 @@ test-results/
 allure-results/
 allure-report/
 .allure/
+
+# Playwright session
+storageState.json
