@@ -1,10 +1,10 @@
-import { FullConfig, chromium } from '@playwright/test';
+import { chromium } from '@playwright/test';
 import path from 'path';
 
 const numScrolls = 1;
 const numMouseMovements = 3;
 
-export default async function globalSetup(config: FullConfig) {
+export default async function globalSetup() {
   const browser = await chromium.launch({
     headless: false,
   });
