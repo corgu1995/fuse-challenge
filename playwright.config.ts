@@ -19,7 +19,6 @@ export default defineConfig({
         channels: ['qa-ui-automation'],
         sendResults: 'always',
         slackWebHookUrl: process.env.SLACK_WEBHOOK_URL,
-        showInThread: true,
         meta: [
           {
             key: 'BUILD_NUMBER',
