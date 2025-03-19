@@ -1,6 +1,5 @@
 import { defineConfig, devices } from '@playwright/test';
 import dotenv from 'dotenv';
-import path from 'path';
 
 dotenv.config();
 
@@ -11,7 +10,6 @@ export default defineConfig({
     timeout: 15 * 1000,
   },
   fullyParallel: true,
-  globalSetup: require.resolve('./global-setup.ts'),
   reporter: [
     ['list'],
     ['allure-playwright'],
@@ -43,7 +41,6 @@ export default defineConfig({
     viewport: { width: 1280, height: 720 },
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
-    storageState: path.resolve(__dirname, 'storageState.json'),
   },
   projects: [
     {
