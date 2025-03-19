@@ -40,9 +40,6 @@ jobs:
           local-testing: start
           local-identifier: random
 
-      - name: 'Running application under test'
-        run: ./node_modules/.bin/http-server -p 8099 &
-
       # Run tests
       - name: Run Playwright tests
         env:
