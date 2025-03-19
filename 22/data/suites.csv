@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1267","Basic Smoke Test - Title Check","desktop-chrome","Wed Mar 19 05:52:50 GMT 2025","passed","Wed Mar 19 05:52:51 GMT 2025","","smoke.spec.ts","",""
