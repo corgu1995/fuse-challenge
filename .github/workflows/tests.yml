@@ -49,6 +49,7 @@ jobs:
           gh_pages: gh-pages
           allure_history: allure-history
           allure_results: allure_results
+          allure_report: allure-report
 
       # Publish Allure report to GitHub Pages
       - name: Deploy Allure Report to GitHub Pages
