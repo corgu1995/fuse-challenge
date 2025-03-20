@@ -43,6 +43,10 @@ jobs:
         if: success()
         run: pnpm run report:generate
 
+      # Show AI Summary in Allure
+      - name: Show AI Summary in Allure
+        run: pnpm analyze-logs
+
       # Upload Allure report as an artifact
       - name: Upload Allure Report
         if: success()
