@@ -45,6 +45,8 @@ jobs:
 
       # Show AI Summary in Allure
       - name: Show AI Summary in Allure
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: pnpm analyze-logs
 
       # Upload Allure report as an artifact
