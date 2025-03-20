@@ -31,3 +31,6 @@ allure-report/
 
 # Playwright session
 storageState.json
+
+# BrowserStack
+log/
