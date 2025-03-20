@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test';
+import { test, expect } from '../fixtures/debug.fixture';
 
 test('Basic Smoke Test - Title Check', async ({ page }) => {
   await page.goto('https://www.expedia.com/');
