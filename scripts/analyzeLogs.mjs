@@ -36,7 +36,7 @@ const openAI = new OpenAI({
 
     // 4. Write summary to a file
     fs.writeFileSync('ai-insights.txt', summary);
-    allure.attachment('Feedback', summary, 'text/plain');
+    await allure.attachment('Feedback', summary, 'text/plain');
     console.log('AI Insights generated:\n', summary);
   } catch (error) {
     console.error('AI Analysis Failed:', error);
