@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "playwright test --project='desktop-chrome'",
+    "test:browser-stack": "npx browserstack-node-sdk playwright test",
     "flaky": "playwright test --repeat-each 5 --project='desktop-chrome'",
     "lint": "eslint . --ext .ts",
     "lint:check": "pnpm -r lint:check && pnpm lint:renovate",
@@ -27,6 +28,7 @@
     "@typescript-eslint/parser": "^8.26.1",
     "allure-playwright": "^3.2.0",
     "axios": "^1.8.3",
+    "browserstack-node-sdk": "^1.34.45",
     "dotenv": "^16.4.7",
     "eslint": "^9.22.0",
     "eslint-config-prettier": "^10.1.1",
