@@ -1,0 +1,52 @@
+# Instructions
+
+- Following Playwright test failed.
+- Explain why, be concise, respect Playwright best practices.
+- Provide a snippet of code with the fix, if possible.
+
+# Test info
+
+- Name: Basic Smoke Test - Title Check
+- Location: /home/runner/work/fuse-challenge/fuse-challenge/tests/smoke.spec.ts:3:5
+
+# Error details
+
+```
+Error: Timed out 15000ms waiting for expect(locator).not.toHaveTitle(expected)
+
+Locator: locator(':root')
+Expected string: not "Bot or Not?"
+Received string: "Bot or Not?"
+Call log:
+  - expect.not.toHaveTitle with timeout 15000ms
+  - waiting for locator(':root')
+    18 × locator resolved to <html>…</html>
+       - unexpected value "Bot or Not?"
+
+    at /home/runner/work/fuse-challenge/fuse-challenge/tests/smoke.spec.ts:5:26
+```
+
+# Page snapshot
+
+```yaml
+- banner:
+  - link "www.expedia.com":
+    - img "www.expedia.com"
+- main:
+  - heading "Show us your human side..." [level=2]
+  - paragraph: We can't tell if you're a human or a bot.
+  - text: f83a3f2a-1399-47fb-9e45-4321109b95c6
+```
+
+# Test source
+
+```ts
+  1 | import { test, expect } from '@playwright/test';
+  2 |
+  3 | test('Basic Smoke Test - Title Check', async ({ page }) => {
+  4 |   await page.goto('https://www.expedia.com/');
+> 5 |   await expect(page).not.toHaveTitle('Bot or Not?');
+    |                          ^ Error: Timed out 15000ms waiting for expect(locator).not.toHaveTitle(expected)
+  6 | });
+  7 |
+```
