@@ -105,3 +105,8 @@ The project includes a GitHub Actions workflow to run tests on every push to the
 - Ensure you have `pnpm` installed globally to manage dependencies.
 - The project uses Playwright for end-to-end testing, ESLint for linting, and Prettier for code formatting.
 - Allure is used for generating test reports, and Slack integration is configured for reporting test results.
+
+## Loom videos
+
+- Infrastructure setup: https://www.loom.com/share/ad5dfa3246394b27aa8920bfa7dea265?sid=8b8fae0a-86e0-488d-adea-469851303f3c
+- Development life cycle: https://www.loom.com/share/530b1a274b3b44afa67f0eddb67cb93c?sid=00f2c474-b571-446a-a061-3be0ce9b5225
