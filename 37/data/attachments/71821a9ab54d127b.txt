@@ -1,0 +1,618 @@
+2025-03-20T22:21:17.689Z Request: https://www.expedia.com/ document
+2025-03-20T22:21:18.623Z Request: https://a.travel-assets.com/travel-assets-manager/ca44f761-d2eb-4ba7-b313-e4c96302ac06/EG-CC-HP-woman-on-the-beach.jpg?impolicy=resizecrop&rw=600&ra=fit image
+2025-03-20T22:21:18.624Z Request: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Book.woff2 font
+2025-03-20T22:21:18.625Z Request: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Medium.woff2 font
+2025-03-20T22:21:18.626Z Request: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Bold.woff2 font
+2025-03-20T22:21:18.627Z Request: https://c.travel-assets.com/lotus-home-ui/mobx.9badb1094c2449cde5db.js script
+2025-03-20T22:21:18.627Z Request: https://c.travel-assets.com/lotus-home-ui/egds.1414e2c76b857de78b72.js script
+2025-03-20T22:21:18.628Z Request: https://c.travel-assets.com/lotus-home-ui/shared~TravelersField.785f81747913eb04faf5.js script
+2025-03-20T22:21:18.648Z Request: https://c.travel-assets.com/lotus-home-ui/bernie.b73c578a2e97f91e4d37.js script
+2025-03-20T22:21:18.649Z Request: https://c.travel-assets.com/lotus-home-ui/app-store-wizard-state.380cfbb731afe23ec3c1.js script
+2025-03-20T22:21:18.650Z Request: https://c.travel-assets.com/lotus-home-ui/core.2f04e2264a441441f828.js script
+2025-03-20T22:21:18.651Z Request: https://c.travel-assets.com/lotus-home-ui/graphql.ab3fa10322bd5a0afa6b.js script
+2025-03-20T22:21:18.651Z Request: https://c.travel-assets.com/lotus-home-ui/global-components.7518658691b81154316c.js script
+2025-03-20T22:21:18.652Z Request: https://c.travel-assets.com/lotus-home-ui/pap.dc6262514a19d00d4706.js script
+2025-03-20T22:21:18.652Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui.adca6f6ff915f6de871a.js script
+2025-03-20T22:21:18.658Z Request: https://c.travel-assets.com/lotus-home-ui/vendor.81e67b68ebbd1d163dd8.js script
+2025-03-20T22:21:18.659Z Request: https://c.travel-assets.com/lotus-home-ui/app.aa34df0b8e165723ed91.js script
+2025-03-20T22:21:18.659Z Request: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-utils.1fec260e78398412e357.js script
+2025-03-20T22:21:18.660Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-pricing-price-summary.4586e5394a20fb07df0f.js script
+2025-03-20T22:21:18.660Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-lodging-fee-inclusive-pricing-coachmark.e51e54cc19f474557cc7.js script
+2025-03-20T22:21:18.660Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-trips-providers.c0d0e1817d963d34a93f.js script
+2025-03-20T22:21:18.661Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-trips-save-item.770ea9dbc1a0a02c60bc.js script
+2025-03-20T22:21:18.673Z Request: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-icons.827eb5dae7f66508c0ee.js script
+2025-03-20T22:21:18.674Z Request: https://c.travel-assets.com/lotus-home-ui/utility~Mojo.b99f317de85c8f81bf12.js script
+2025-03-20T22:21:18.674Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-recommendation-module.d2b5b41295337f559180.js script
+2025-03-20T22:21:18.675Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-customer-notifications.2177ea63cab0f31f23c0.js script
+2025-03-20T22:21:18.675Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-affiliates-stripe.51be8d6458856cb55ab6.js script
+2025-03-20T22:21:18.676Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-product-gallery.696a4064d9170ca9fc3f.js script
+2025-03-20T22:21:18.676Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-product-random-access-one.3e7a29384ea9773bf3fd.js script
+2025-03-20T22:21:18.676Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-header.b50da67e4c1b47b2bf6a.js script
+2025-03-20T22:21:18.677Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-communication-center-preview-menu.487cecc28a8a131964cf.js script
+2025-03-20T22:21:18.677Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-loyalty-account-summary.1cdb455f67e221bb643f.js script
+2025-03-20T22:21:18.677Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-customer-notification-center.57eda15197d45e842aa9.js script
+2025-03-20T22:21:18.679Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-customer-virtual-agent-control.f623654399e8b712b0bb.js script
+2025-03-20T22:21:18.682Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-identity-google-one-tap.9bd2ef2952e585e648e4.js script
+2025-03-20T22:21:18.682Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-footer.9de84157825a89b74bac.js script
+2025-03-20T22:21:18.682Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-picker.e523608e8c60892c6137.js script
+2025-03-20T22:21:18.683Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-member-wallet.33ca4c57c7705cbf03be.js script
+2025-03-20T22:21:18.683Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-sponsored-content-partner-gallery.833b6e7d816b03ff0ab5.js script
+2025-03-20T22:21:18.686Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-sponsored-content-transparency.6735bce5a58b7569bf44.js script
+2025-03-20T22:21:18.686Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-credit-card-account-placement.f5e654bd3b24e661a86a.js script
+2025-03-20T22:21:18.687Z Request: https://c.travel-assets.com/lotus-home-ui/shared~StackedSticky.cf40523a5c13b8eed884.js script
+2025-03-20T22:21:18.687Z Request: https://c.travel-assets.com/lotus-home-ui/app-shared.6542f396de9f5fb46ec1.js script
+2025-03-20T22:21:18.688Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-FlexPage.a81ae92e10d80d9eac7a.js script
+2025-03-20T22:21:18.688Z Request: https://c.travel-assets.com/lotus-home-ui/l10nBundle/en_US.e0c1eb44abd008cc4663.js script
+2025-03-20T22:21:18.873Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared~TravelersField.785f81747913eb04faf5.js script
+2025-03-20T22:21:18.873Z Request Finished: https://c.travel-assets.com/lotus-home-ui/bernie.b73c578a2e97f91e4d37.js script
+2025-03-20T22:21:18.914Z Request Finished: https://c.travel-assets.com/lotus-home-ui/mobx.9badb1094c2449cde5db.js script
+2025-03-20T22:21:18.914Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-trips-providers.c0d0e1817d963d34a93f.js script
+2025-03-20T22:21:18.915Z Request Finished: https://c.travel-assets.com/lotus-home-ui/egds.1414e2c76b857de78b72.js script
+2025-03-20T22:21:18.916Z Request Finished: https://c.travel-assets.com/lotus-home-ui/pap.dc6262514a19d00d4706.js script
+2025-03-20T22:21:18.917Z Request Finished: https://c.travel-assets.com/lotus-home-ui/vendor.81e67b68ebbd1d163dd8.js script
+2025-03-20T22:21:18.917Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui.adca6f6ff915f6de871a.js script
+2025-03-20T22:21:18.918Z Request Finished: https://c.travel-assets.com/lotus-home-ui/global-components.7518658691b81154316c.js script
+2025-03-20T22:21:18.918Z Request Finished: https://c.travel-assets.com/lotus-home-ui/graphql.ab3fa10322bd5a0afa6b.js script
+2025-03-20T22:21:18.920Z Request Finished: https://c.travel-assets.com/lotus-home-ui/core.2f04e2264a441441f828.js script
+2025-03-20T22:21:18.920Z Request Finished: https://c.travel-assets.com/lotus-home-ui/app-store-wizard-state.380cfbb731afe23ec3c1.js script
+2025-03-20T22:21:18.936Z Request Finished: https://c.travel-assets.com/lotus-home-ui/app.aa34df0b8e165723ed91.js script
+2025-03-20T22:21:18.950Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-customer-notifications.2177ea63cab0f31f23c0.js script
+2025-03-20T22:21:18.951Z Request Finished: https://c.travel-assets.com/lotus-home-ui/utility~Mojo.b99f317de85c8f81bf12.js script
+2025-03-20T22:21:18.952Z Request Finished: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-icons.827eb5dae7f66508c0ee.js script
+2025-03-20T22:21:18.954Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-lodging-fee-inclusive-pricing-coachmark.e51e54cc19f474557cc7.js script
+2025-03-20T22:21:18.954Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-pricing-price-summary.4586e5394a20fb07df0f.js script
+2025-03-20T22:21:18.955Z Request Finished: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-utils.1fec260e78398412e357.js script
+2025-03-20T22:21:18.958Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-trips-save-item.770ea9dbc1a0a02c60bc.js script
+2025-03-20T22:21:18.958Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-customer-virtual-agent-control.f623654399e8b712b0bb.js script
+2025-03-20T22:21:18.959Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-recommendation-module.d2b5b41295337f559180.js script
+2025-03-20T22:21:18.960Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-loyalty-account-summary.1cdb455f67e221bb643f.js script
+2025-03-20T22:21:18.961Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-communication-center-preview-menu.487cecc28a8a131964cf.js script
+2025-03-20T22:21:18.961Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-customer-notification-center.57eda15197d45e842aa9.js script
+2025-03-20T22:21:18.961Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-header.b50da67e4c1b47b2bf6a.js script
+2025-03-20T22:21:18.966Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-product-random-access-one.3e7a29384ea9773bf3fd.js script
+2025-03-20T22:21:18.967Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared~StackedSticky.cf40523a5c13b8eed884.js script
+2025-03-20T22:21:18.967Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-product-gallery.696a4064d9170ca9fc3f.js script
+2025-03-20T22:21:18.967Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-sponsored-content-transparency.6735bce5a58b7569bf44.js script
+2025-03-20T22:21:18.968Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-credit-card-account-placement.f5e654bd3b24e661a86a.js script
+2025-03-20T22:21:18.969Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-affiliates-stripe.51be8d6458856cb55ab6.js script
+2025-03-20T22:21:18.970Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-sponsored-content-partner-gallery.833b6e7d816b03ff0ab5.js script
+2025-03-20T22:21:18.970Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-member-wallet.33ca4c57c7705cbf03be.js script
+2025-03-20T22:21:18.970Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-picker.e523608e8c60892c6137.js script
+2025-03-20T22:21:19.024Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-global-navigation-footer.9de84157825a89b74bac.js script
+2025-03-20T22:21:19.024Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-identity-google-one-tap.9bd2ef2952e585e648e4.js script
+2025-03-20T22:21:19.025Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-FlexPage.a81ae92e10d80d9eac7a.js script
+2025-03-20T22:21:19.026Z Request Finished: https://c.travel-assets.com/lotus-home-ui/l10nBundle/en_US.e0c1eb44abd008cc4663.js script
+2025-03-20T22:21:19.026Z Request Finished: https://c.travel-assets.com/lotus-home-ui/app-shared.6542f396de9f5fb46ec1.js script
+2025-03-20T22:21:19.182Z Request Finished: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Book.woff2 font
+2025-03-20T22:21:19.182Z Request Finished: https://a.travel-assets.com/travel-assets-manager/ca44f761-d2eb-4ba7-b313-e4c96302ac06/EG-CC-HP-woman-on-the-beach.jpg?impolicy=resizecrop&rw=600&ra=fit image
+2025-03-20T22:21:19.183Z Request Finished: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Bold.woff2 font
+2025-03-20T22:21:19.221Z Request Finished: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Medium.woff2 font
+2025-03-20T22:21:19.259Z Request: https://www.expedia.com/akam/13/15c17b7e script
+2025-03-20T22:21:19.301Z Request Finished: https://www.expedia.com/akam/13/15c17b7e script
+2025-03-20T22:21:19.933Z Request: https://a.travel-assets.com/egds/marks/brands/expedia/app.svg image
+2025-03-20T22:21:19.934Z Request: https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=1&2&6f9ec7db image
+2025-03-20T22:21:19.984Z Request Finished: https://a.travel-assets.com/egds/marks/brands/expedia/app.svg image
+2025-03-20T22:21:20.022Z Request Finished: https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=1&2&6f9ec7db image
+2025-03-20T22:21:20.060Z Request: https://a.travel-assets.com/egds/marks/flags/us.svg image
+2025-03-20T22:21:20.129Z Request Finished: https://a.travel-assets.com/egds/marks/flags/us.svg image
+2025-03-20T22:21:20.130Z Request: https://a.travel-assets.com/egds/marks/onekey__standard__always_light.svg image
+2025-03-20T22:21:20.131Z Request: https://a.travel-assets.com/travel-assets-manager/492222bf-f4f3-4266-881d-69558f4f8458/destu-41037BEX-USCAINKSAUAE-SpringSaleLTO-DB-Hero-D-928x398_IMAGE_UPDATE.jpg image
+2025-03-20T22:21:20.170Z Request Finished: https://a.travel-assets.com/egds/marks/onekey__standard__always_light.svg image
+2025-03-20T22:21:20.171Z Request: https://a.travel-assets.com/egds/fonts/RecklessXPD/RecklessXPD-Regular.woff2 font
+2025-03-20T22:21:20.274Z Request Finished: https://a.travel-assets.com/travel-assets-manager/492222bf-f4f3-4266-881d-69558f4f8458/destu-41037BEX-USCAINKSAUAE-SpringSaleLTO-DB-Hero-D-928x398_IMAGE_UPDATE.jpg image
+2025-03-20T22:21:20.437Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:20.438Z Request: https://www.uciservice.com/assets/meso-loaders/expads-blocked.js script
+2025-03-20T22:21:20.438Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-region_spacing-container.f7e68feae0ff75a824a1.js script
+2025-03-20T22:21:20.439Z Request: https://c.travel-assets.com/lotus-home-ui/flexComponents~SimpleContainer.a0726048b311e0b2af70.js script
+2025-03-20T22:21:20.439Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-travel-content-editorial.cae467e0ef197163e7aa.js script
+2025-03-20T22:21:20.440Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-editorial-page-heading.2ce88c995a28a0578f3b.js script
+2025-03-20T22:21:20.440Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-page-heading_wizard.4918c251cfe7660d1246.js script
+2025-03-20T22:21:20.443Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-separator.7739556e5657efb9e91f.js script
+2025-03-20T22:21:20.444Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-customer-notifications.896c9214a9ca06f05181.js script
+2025-03-20T22:21:20.444Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-flights-fare-calendar.df7045c5a4398deb1635.js script
+2025-03-20T22:21:20.445Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-search-tools-product.60b5626060b68f525675.js script
+2025-03-20T22:21:20.445Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-shopping-tools-egds-price-calendar.781147aef275f9a29081.js script
+2025-03-20T22:21:20.445Z Request: https://c.travel-assets.com/lotus-home-ui/utility~usePrefetchAssets.ts.fe87b66c8f8903cde003.js script
+2025-03-20T22:21:20.446Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-shopping-search-criteria-providers.e4208f02b1a74ee308b7.js script
+2025-03-20T22:21:20.446Z Request: https://c.travel-assets.com/lotus-home-ui/utility~useOptimizeLodgingSearchLoadTimeExperiment.ts.15f31d87924f082a7fb0.js script
+2025-03-20T22:21:20.447Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-multi-product-search-form.100b765eab27c5f224fb.js script
+2025-03-20T22:21:20.447Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-region_auth-container.750f40e157324fbe6ff6.js script
+2025-03-20T22:21:20.447Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-managed-banner.03bb7189c12e62ed8523.js script
+2025-03-20T22:21:20.448Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-managed-banner-wrapper.cf0dd0269cd0bc02f10e.js script
+2025-03-20T22:21:20.448Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-loyalty-one-key-onboarding.6fba857ce3de16800102.js script
+2025-03-20T22:21:20.453Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-one-key-onboarding.8bcd4f5bdbdc0fc00ad3.js script
+2025-03-20T22:21:20.454Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-mojo.2e3e8c1fd7b80f4c5ad5.js script
+2025-03-20T22:21:20.454Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-region_lazy-load.db45a28e9f8760fd47fd.js script
+2025-03-20T22:21:20.455Z Request: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-sponsored-content-marquee-cards.34cd80609c7e65f7bc96.js script
+2025-03-20T22:21:20.455Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-single-card-marquee.86cf26b14f3fbd82fe88.js script
+2025-03-20T22:21:20.457Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-partner-gallery.d896671e0034f7013045.js script
+2025-03-20T22:21:20.457Z Request: https://c.travel-assets.com/lotus-home-ui/blossom-click-to-claim-toast.49fd9474c8c0e0be079c.js script
+2025-03-20T22:21:20.458Z Request: https://www.uciservice.com/assets/meso-loaders/bernie-loader.js script
+2025-03-20T22:21:20.463Z Request: https://www.expedia.com/ra5PYbSQ9DQxW3lBeR6g/VDDYkQrau5/U0JTICEi/fR/VWcyYeMiU?v=8fbbbe36-dc1b-e378-aa46-f15530676006 script
+2025-03-20T22:21:20.463Z Request Finished: https://www.expedia.com/ document
+2025-03-20T22:21:20.464Z Request Finished: https://a.travel-assets.com/egds/fonts/RecklessXPD/RecklessXPD-Regular.woff2 font
+2025-03-20T22:21:20.490Z Request Finished: https://www.expedia.com/ra5PYbSQ9DQxW3lBeR6g/VDDYkQrau5/U0JTICEi/fR/VWcyYeMiU?v=8fbbbe36-dc1b-e378-aa46-f15530676006 script
+2025-03-20T22:21:20.564Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:20.566Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-travel-content-editorial.cae467e0ef197163e7aa.js script
+2025-03-20T22:21:20.566Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-editorial-page-heading.2ce88c995a28a0578f3b.js script
+2025-03-20T22:21:20.568Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-page-heading_wizard.4918c251cfe7660d1246.js script
+2025-03-20T22:21:20.569Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-separator.7739556e5657efb9e91f.js script
+2025-03-20T22:21:20.575Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-shopping-search-criteria-providers.e4208f02b1a74ee308b7.js script
+2025-03-20T22:21:20.576Z Request Finished: https://www.uciservice.com/assets/meso-loaders/expads-blocked.js script
+2025-03-20T22:21:20.576Z Request Finished: https://www.uciservice.com/assets/meso-loaders/bernie-loader.js script
+2025-03-20T22:21:20.746Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:20.747Z Request: https://www.expedia.com/cl/1x1.gif?gcoAgent=false&live=true&pageName=unknown&guid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&logTime=2025-03-20T22:21:20.670Z&sessionDuration=0&action=logTrxEvent&navTiming_elapsedTime=NaN&unloadTime=NaN&redirectTime=NaN&dnsTime=0&connectionTime=137&requestTime=735&responseTime=1834&parsingTime=1987&domReadyCallbackTime=NaN&onLdCallbackTime=NaN&processingTime=NaN&navigationToResponse=876&navigationToDomContentLoaded=NaN&navigationToOnLd=NaN&fetchToResponse=874&fetchToDomContentLoaded=NaN&fetchToOnLd=NaN&responseToDomContentLoaded=NaN&responseToOnLd=NaN&navigationToDomInteractive=2881&pageUsableTime=2756 image
+2025-03-20T22:21:20.747Z Request: https://cdn.tagcommander.com/6035/tc_bex_prod.js script
+2025-03-20T22:21:20.748Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:20.748Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:20.749Z Request: https://b.travel-assets.com/travel-pixel-js/1.0.0/app.js script
+2025-03-20T22:21:20.749Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:20.781Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:20.781Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-region_spacing-container.f7e68feae0ff75a824a1.js script
+2025-03-20T22:21:20.808Z Request Finished: https://c.travel-assets.com/lotus-home-ui/flexComponents~SimpleContainer.a0726048b311e0b2af70.js script
+2025-03-20T22:21:20.809Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-customer-notifications.896c9214a9ca06f05181.js script
+2025-03-20T22:21:20.809Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-flights-fare-calendar.df7045c5a4398deb1635.js script
+2025-03-20T22:21:20.809Z Request Finished: https://c.travel-assets.com/lotus-home-ui/utility~usePrefetchAssets.ts.fe87b66c8f8903cde003.js script
+2025-03-20T22:21:20.812Z Request Finished: https://c.travel-assets.com/lotus-home-ui/utility~useOptimizeLodgingSearchLoadTimeExperiment.ts.15f31d87924f082a7fb0.js script
+2025-03-20T22:21:20.812Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-region_auth-container.750f40e157324fbe6ff6.js script
+2025-03-20T22:21:20.812Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-multi-product-search-form.100b765eab27c5f224fb.js script
+2025-03-20T22:21:20.813Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-managed-banner-wrapper.cf0dd0269cd0bc02f10e.js script
+2025-03-20T22:21:20.813Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-managed-banner.03bb7189c12e62ed8523.js script
+2025-03-20T22:21:20.813Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-one-key-onboarding.8bcd4f5bdbdc0fc00ad3.js script
+2025-03-20T22:21:20.814Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-region_lazy-load.db45a28e9f8760fd47fd.js script
+2025-03-20T22:21:20.815Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-loyalty-one-key-onboarding.6fba857ce3de16800102.js script
+2025-03-20T22:21:20.815Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-partner-gallery.d896671e0034f7013045.js script
+2025-03-20T22:21:20.815Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-sponsored-content-marquee-cards.34cd80609c7e65f7bc96.js script
+2025-03-20T22:21:20.816Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-click-to-claim-toast.49fd9474c8c0e0be079c.js script
+2025-03-20T22:21:20.816Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-shopping-tools-egds-price-calendar.781147aef275f9a29081.js script
+2025-03-20T22:21:20.816Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-single-card-marquee.86cf26b14f3fbd82fe88.js script
+2025-03-20T22:21:20.816Z Request Finished: https://c.travel-assets.com/lotus-home-ui/blossom-mojo.2e3e8c1fd7b80f4c5ad5.js script
+2025-03-20T22:21:20.817Z Request Finished: https://c.travel-assets.com/lotus-home-ui/shared-ui-retail-search-tools-product.60b5626060b68f525675.js script
+2025-03-20T22:21:20.893Z Request: https://c.travel-assets.com/lotus-home-ui/brand-10112011210110010597.cdc25911eb8f76cea75b.js script
+2025-03-20T22:21:20.893Z Request: https://www.expedia.com/trvl-px/v2/ppid?duaid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3 fetch
+2025-03-20T22:21:20.895Z Request: https://www.uciservice.com/assets/meso-loaders/px.gif?ch=1&rn=0.5673767720482621 image
+2025-03-20T22:21:20.896Z Request: https://www.uciservice.com/assets/meso-loaders/px.gif?ch=2&rn=0.7007264768216819 image
+2025-03-20T22:21:20.896Z Event DOMContentLoad: https://www.expedia.com/
+2025-03-20T22:21:20.897Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:20.898Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:20.899Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:20.901Z Request Finished: https://b.travel-assets.com/travel-pixel-js/1.0.0/app.js script
+2025-03-20T22:21:20.935Z Request: https://b.travel-assets.com/travel-pixel-js/1.0.0/config/www.expedia.com-prod-config.json fetch
+2025-03-20T22:21:20.936Z Request Finished: https://www.expedia.com/cl/1x1.gif?gcoAgent=false&live=true&pageName=unknown&guid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&logTime=2025-03-20T22:21:20.670Z&sessionDuration=0&action=logTrxEvent&navTiming_elapsedTime=NaN&unloadTime=NaN&redirectTime=NaN&dnsTime=0&connectionTime=137&requestTime=735&responseTime=1834&parsingTime=1987&domReadyCallbackTime=NaN&onLdCallbackTime=NaN&processingTime=NaN&navigationToResponse=876&navigationToDomContentLoaded=NaN&navigationToOnLd=NaN&fetchToResponse=874&fetchToDomContentLoaded=NaN&fetchToOnLd=NaN&responseToDomContentLoaded=NaN&responseToOnLd=NaN&navigationToDomInteractive=2881&pageUsableTime=2756 image
+2025-03-20T22:21:20.937Z Request Finished: https://www.uciservice.com/assets/meso-loaders/px.gif?ch=1&rn=0.5673767720482621 image
+2025-03-20T22:21:20.938Z Request Finished: https://cdn.tagcommander.com/6035/tc_bex_prod.js script
+2025-03-20T22:21:20.939Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:20.939Z Request Finished: https://c.travel-assets.com/lotus-home-ui/brand-10112011210110010597.cdc25911eb8f76cea75b.js script
+2025-03-20T22:21:20.942Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:20.943Z Request: https://www.googletagmanager.com/gtag/js?id=AW-619800534 script
+2025-03-20T22:21:20.943Z Request: https://connect.facebook.net/en_US/fbevents.js script
+2025-03-20T22:21:20.944Z Request: https://match.adsrvr.org/track/rid?ttd_pid=g66pnr7&fmt=json&domain=www.expedia.com fetch
+2025-03-20T22:21:20.945Z Request: https://www.uqd.io/123.js script
+2025-03-20T22:21:20.945Z Request: https://bat.bing.com/bat.js script
+2025-03-20T22:21:20.946Z Request: https://insight.adsrvr.org/track/pxl/?adv=bmvlbu6&ct=0:p5ziz37&fmt=3 image
+2025-03-20T22:21:20.947Z Request: https://c.bing.com/c.gif?uid=-1&vid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&Red3=BACID_251100657 image
+2025-03-20T22:21:20.970Z Request: https://trkn.us/pixel/conv/ppt=24976;g=eg_homepage_visit;gid=62627;cv1=BEX;cv2=US;ord=1751580905287 image
+2025-03-20T22:21:20.972Z Event Console: Warning: fragment with name EGDSStylizedTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.009Z Event Console: Warning: fragment with name EGDSStylizedTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.009Z Event Console: Warning: fragment with name EGDSInlineLinkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.010Z Event Console: Warning: fragment with name EGDSPlainTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.011Z Event Console: Warning: fragment with name IconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.011Z Event Console: Warning: fragment with name EGDSStylizedTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.011Z Event Console: Warning: fragment with name IconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.012Z Event Console: Warning: fragment with name EGDSIconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.012Z Event Console: Warning: fragment with name EGDSMarkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.013Z Event Console: Warning: fragment with name EGDSInlineLinkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.015Z Event Console: Warning: fragment with name UILinkActionFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.017Z Event Console: Warning: fragment with name EGDSMarkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.017Z Event Console: Warning: fragment with name EGDSStandardBadgeFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.018Z Event Console: Warning: fragment with name AdTransparencyButtonFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.019Z Event Console: Warning: fragment with name TransparencyOverlaySkeletonFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.020Z Event Console: Warning: fragment with name EGDSIconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.021Z Event Console: Warning: fragment with name EGDSGraphicTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.022Z Event Console: Warning: fragment with name EGDSInlineLinkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.023Z Event Console: Warning: fragment with name EGDSStandardLinkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.023Z Event Console: Warning: fragment with name EGDSStylizedTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.023Z Event Console: Warning: fragment with name EGDSSpannableTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.070Z Event Console: Warning: fragment with name ClientSideAnalyticsFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.072Z Event Console: Warning: fragment with name EGDSIconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.073Z Event Console: Warning: fragment with name EGDSIllustrationFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.073Z Event Console: Warning: fragment with name EGDSGraphicTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.074Z Event Console: Warning: fragment with name EGDSTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.074Z Event Console: Warning: fragment with name ClientSideImpressionEventAnalyticsFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.075Z Event Console: Warning: fragment with name EGDSStandardBadgeFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.076Z Event Console: Warning: fragment with name EGDSRegexInputValidationFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.077Z Event Console: Warning: fragment with name EGDSRequiredInputValidationFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.077Z Event Console: Warning: fragment with name ClientSideAnalyticsFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.078Z Event Console: Warning: fragment with name EGDSImageFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.079Z Event Console: Warning: fragment with name EGDSIconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.079Z Event Console: Warning: fragment with name EGDSStandardLinkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.081Z Event Console: Warning: fragment with name EGDSGraphicFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.083Z Event Console: Warning: fragment with name EGDSBadgeFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.084Z Event Console: Warning: fragment with name UIGraphicFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.084Z Event Console: Warning: fragment with name EGDSGraphicTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.084Z Event Console: Warning: fragment with name EGDSStylizedTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.085Z Event Console: Warning: fragment with name EGDSSpannableTextContentFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.085Z Event Console: Warning: fragment with name EGDSSpannableTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.085Z Event Console: Warning: fragment with name EGDSTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.088Z Event Console: Warning: fragment with name TripsSaveItemFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.088Z Event Console: Warning: fragment with name EGDSExpandoPeekFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.199Z Event Console: Warning: fragment with name EGDSHeadingFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.200Z Event Console: Warning: fragment with name EGDSInlineLinkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.201Z Event Console: Warning: fragment with name EGDSStylizedTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.202Z Event Console: Warning: fragment with name EGDSSpannableTextContentFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.203Z Event Console: Warning: fragment with name EGDSSpannableTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.203Z Event Console: Warning: fragment with name EGDSTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.203Z Event Console: Warning: fragment with name ImageFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.204Z Event Console: Warning: fragment with name IconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.205Z Event Console: Warning: fragment with name UIGraphicFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.206Z Event Console: Warning: fragment with name EGDSGraphicTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.206Z Event Console: Warning: fragment with name EGDSButtonFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.207Z Event Console: Warning: fragment with name EGDSStandardBadgeFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.208Z Event Console: Warning: fragment with name EGDSBadgeFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.237Z Event Console: Warning: fragment with name ImageFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.238Z Event Console: Warning: fragment with name EGDSStandardLinkFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.238Z Event Console: Warning: fragment with name EGDSSpannableTextInlineContentFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.239Z Event Console: Warning: fragment with name EGDSSpannableTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.239Z Event Console: Warning: fragment with name EGDSSecondaryButtonFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.340Z Event Console: Warning: fragment with name EGDSIconFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.342Z Event Console: Warning: fragment with name EGDSTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.342Z Event Console: Warning: fragment with name EGDSSpannableTextFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.343Z Event Console: Warning: fragment with name EGDSUnorderedListFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.343Z Event Console: Warning: fragment with name EGDSButtonFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.343Z Event Console: Warning: fragment with name HttpURIFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.347Z Event Console: Warning: fragment with name EGDSLoyaltyBadgeFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.348Z Event Console: Warning: fragment with name ClientSideAnalyticsFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.348Z Event Console: Warning: fragment with name EGDSImageFragment already exists.
+graphql-tag enforces all fragment names across your application to be unique; read more about
+this in the docs: http://dev.apollodata.com/core/fragments.html#unique-names
+2025-03-20T22:21:21.352Z Request: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-button.b95fcea012b4154665ab.js script
+2025-03-20T22:21:21.353Z Request: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-layout-grid.4d84dcd6a242d954ad3e.js script
+2025-03-20T22:21:21.353Z Request: https://c.travel-assets.com/lotus-home-ui/uitk.8045cd7827431a01e178.js script
+2025-03-20T22:21:21.353Z Request: https://c.travel-assets.com/lotus-home-ui/RedirectBanner.d2535ee93cbc6a966ac8.js script
+2025-03-20T22:21:21.354Z Request: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js script
+2025-03-20T22:21:21.355Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:21.355Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:21.356Z Event Console: Datadog Browser SDK: Customer data exceeds the recommended 3KiB threshold. More details: https://docs.datadoghq.com/real_user_monitoring/browser/troubleshooting/#customer-data-exceeds-the-recommended-threshold-warning
+2025-03-20T22:21:21.410Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:21.412Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.413Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.413Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.414Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.414Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.415Z Request Finished: https://www.uciservice.com/assets/meso-loaders/px.gif?ch=2&rn=0.7007264768216819 image
+2025-03-20T22:21:21.415Z Request Finished: https://c.bing.com/c.gif?uid=-1&vid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&Red3=BACID_251100657 image
+2025-03-20T22:21:21.416Z Request Finished: https://insight.adsrvr.org/track/pxl/?adv=bmvlbu6&ct=0:p5ziz37&fmt=3 image
+2025-03-20T22:21:21.417Z Request: https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=649e7c2c-b956-47d6-ac77-13f00e2dff9e&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon image
+2025-03-20T22:21:21.417Z Request Finished: https://trkn.us/pixel/conv/ppt=24976;g=eg_homepage_visit;gid=62627;cv1=BEX;cv2=US;ord=1751580905287 image
+2025-03-20T22:21:21.418Z Request: https://trkn.us/pixel/conv/ppt=24976;g=eg_homepage_visit;gid=62627;cv1=BEX;cv2=US;ord=1751580905287;ip=154.16.15.6;cuidchk=1 image
+2025-03-20T22:21:21.418Z Request Finished: https://www.expedia.com/trvl-px/v2/ppid?duaid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3 fetch
+2025-03-20T22:21:21.427Z Request: https://www.expedia.com/akam/13/pixel_15c17b7e xhr
+2025-03-20T22:21:21.427Z Event Console: WARNING: marking a page that was already usable - value won't be updated - use reset() first
+2025-03-20T22:21:21.428Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.428Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.429Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.429Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.429Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.461Z Request Finished: https://b.travel-assets.com/travel-pixel-js/1.0.0/config/www.expedia.com-prod-config.json fetch
+2025-03-20T22:21:21.461Z Request: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.469Z Request: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.469Z Request Finished: https://match.adsrvr.org/track/rid?ttd_pid=g66pnr7&fmt=json&domain=www.expedia.com fetch
+2025-03-20T22:21:21.470Z Request: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.470Z Request: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.471Z Request: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.471Z Request: https://www.trvl-px.com/trvl-px/v2/get fetch
+2025-03-20T22:21:21.471Z Request Finished: https://bat.bing.com/bat.js script
+2025-03-20T22:21:21.472Z Request Finished: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js script
+2025-03-20T22:21:21.472Z Request Finished: https://c.travel-assets.com/lotus-home-ui/RedirectBanner.d2535ee93cbc6a966ac8.js script
+2025-03-20T22:21:21.472Z Request Finished: https://www.uqd.io/123.js script
+2025-03-20T22:21:21.472Z Request Finished: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-button.b95fcea012b4154665ab.js script
+2025-03-20T22:21:21.473Z Request Finished: https://connect.facebook.net/en_US/fbevents.js script
+2025-03-20T22:21:21.473Z Request: https://bat.bing.com/p/action/56343525.js script
+2025-03-20T22:21:21.474Z Request: https://cdn.cookielaw.org/consent/634826f3-3ea8-4c02-8e82-05e6ffb4e293/634826f3-3ea8-4c02-8e82-05e6ffb4e293.json xhr
+2025-03-20T22:21:21.474Z Request Finished: https://www.googletagmanager.com/gtag/js?id=AW-619800534 script
+2025-03-20T22:21:21.474Z Request: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.474Z Request: https://t.promotionx.io/coordinator-123.js?cb=1742509200000 script
+2025-03-20T22:21:21.476Z Request Finished: https://trkn.us/pixel/conv/ppt=24976;g=eg_homepage_visit;gid=62627;cv1=BEX;cv2=US;ord=1751580905287;ip=154.16.15.6;cuidchk=1 image
+2025-03-20T22:21:21.530Z Request: https://connect.facebook.net/signals/config/468990633205284?v=2.9.189&r=stable&domain=www.expedia.com&hme=c1f2cecb0bd2e60711f2156ceae0254b57f69ec526dbc6c13633615b2168eda4&ex_m=71%2C124%2C109%2C113%2C62%2C4%2C102%2C70%2C16%2C98%2C90%2C51%2C55%2C178%2C181%2C193%2C189%2C190%2C192%2C29%2C103%2C53%2C78%2C191%2C173%2C176%2C186%2C187%2C194%2C135%2C41%2C199%2C196%2C197%2C34%2C148%2C15%2C50%2C203%2C202%2C137%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C110%2C52%2C112%2C39%2C111%2C30%2C95%2C26%2C174%2C177%2C145%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C104%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C106%2C105%2C107%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C108%2C45%2C80%2C69%2C114%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C101%2C115 script
+2025-03-20T22:21:21.531Z Request Finished: https://c.travel-assets.com/lotus-home-ui/node_modules~uitk-react-layout-grid.4d84dcd6a242d954ad3e.js script
+2025-03-20T22:21:21.531Z Request: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.532Z Request Finished: https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=649e7c2c-b956-47d6-ac77-13f00e2dff9e&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon image
+2025-03-20T22:21:21.535Z Request: https://match.adsrvr.org/track/cmf/rubicon?gdpr=0 image
+2025-03-20T22:21:21.536Z Request Finished: https://www.expedia.com/akam/13/pixel_15c17b7e xhr
+2025-03-20T22:21:21.557Z Request: https://www.googletagmanager.com/gtag/js?id=DC-9163167&l=dataLayer&cx=c&gtm=45be53j1v882129975za200&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060 script
+2025-03-20T22:21:21.558Z Request: https://www.googletagmanager.com/gtag/js?id=AW-786429470&l=dataLayer&cx=c&gtm=45be53j1v882129975za200&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060 script
+2025-03-20T22:21:21.558Z Request: https://www.google.com/ccm/collect?en=page_view&dl=https%3A%2F%2Fwww.expedia.com%2F&scrsrc=www.googletagmanager.com&frm=0&rnd=1867050134.1742509281&dt=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&auid=2019686719.1742509281&navt=n&npa=0&uid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm=45be53j1v882129975za200&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&tft=1742509281485&tfd=3829&apve=1 ping
+2025-03-20T22:21:21.559Z Request: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/619800534/?random=1742509281479&cv=11&fst=1742509281479&bg=ffffff&guid=ON&async=1&gtm=45be53j1v882129975za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config%3Bcd1%3DHomepage%3Bcd2%3DEXPEDIA_US%3Bcd3%3D0%3Bcd4%3DUnknown%3Bcd8%3DN&rfmt=3&fmt=4 script
+2025-03-20T22:21:21.560Z Request: https://td.doubleclick.net/td/rul/619800534?random=1742509281479&cv=11&fst=1742509281479&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be53j1v882129975za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config%3Bcd1%3DHomepage%3Bcd2%3DEXPEDIA_US%3Bcd3%3D0%3Bcd4%3DUnknown%3Bcd8%3DN document
+2025-03-20T22:21:21.560Z Request Finished: https://match.adsrvr.org/track/cmf/rubicon?gdpr=0 image
+2025-03-20T22:21:21.561Z Request: https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.562Z Request Finished: https://bat.bing.com/p/action/56343525.js script
+2025-03-20T22:21:21.562Z Request Finished: https://c.travel-assets.com/lotus-home-ui/uitk.8045cd7827431a01e178.js script
+2025-03-20T22:21:21.570Z Request: https://cdn.cookielaw.org/scripttemplates/202305.1.0/otBannerSdk.js script
+2025-03-20T22:21:21.570Z Request Finished: https://cdn.cookielaw.org/consent/634826f3-3ea8-4c02-8e82-05e6ffb4e293/634826f3-3ea8-4c02-8e82-05e6ffb4e293.json xhr
+2025-03-20T22:21:21.571Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:21.572Z Request: https://www.googletagmanager.com/static/service_worker/53k0/sw_iframe.html?origin=https%3A%2F%2Fwww.expedia.com document
+2025-03-20T22:21:21.573Z Request: https://bat.bing.com/action/0?ti=56343525&Ver=2&mid=0d6a9ab1-2033-4b05-aaac-ea5f6976835c&bo=1&sid=a6edc02005d911f0bbdc99b9a809e0d1&vid=a6edf44005d911f0968d73a6620e130b&vids=1&msclkid=N&pi=0&lg=en-GB&sw=384&sh=824&sc=24&nwd=1&tl=Expedia%20Travel%3A%20Vacation%20Homes,%20Hotels,%20Car%20Rentals,%20Flights%20%26%20More&p=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&r=&lt=3179&mtp=5&evt=pageLoad&sv=1&cdb=AQAQ&rn=644373 image
+2025-03-20T22:21:21.575Z Request: https://www.expedia.com/api/redirect-banner?siteid=1&langid=1033&_=7292039560574 fetch
+2025-03-20T22:21:21.576Z Request Finished: https://connect.facebook.net/signals/config/468990633205284?v=2.9.189&r=stable&domain=www.expedia.com&hme=c1f2cecb0bd2e60711f2156ceae0254b57f69ec526dbc6c13633615b2168eda4&ex_m=71%2C124%2C109%2C113%2C62%2C4%2C102%2C70%2C16%2C98%2C90%2C51%2C55%2C178%2C181%2C193%2C189%2C190%2C192%2C29%2C103%2C53%2C78%2C191%2C173%2C176%2C186%2C187%2C194%2C135%2C41%2C199%2C196%2C197%2C34%2C148%2C15%2C50%2C203%2C202%2C137%2C18%2C40%2C1%2C43%2C66%2C67%2C68%2C72%2C94%2C17%2C14%2C97%2C93%2C92%2C110%2C52%2C112%2C39%2C111%2C30%2C95%2C26%2C174%2C177%2C145%2C87%2C57%2C85%2C33%2C74%2C0%2C96%2C32%2C28%2C83%2C84%2C89%2C47%2C46%2C88%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C58%2C63%2C65%2C76%2C54%2C104%2C27%2C77%2C9%2C8%2C81%2C48%2C21%2C106%2C105%2C107%2C99%2C10%2C20%2C3%2C38%2C75%2C19%2C5%2C91%2C82%2C44%2C35%2C86%2C2%2C36%2C64%2C42%2C108%2C45%2C80%2C69%2C114%2C61%2C60%2C31%2C100%2C59%2C56%2C49%2C79%2C73%2C24%2C101%2C115 script
+2025-03-20T22:21:21.577Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.579Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:21.580Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.584Z Request Finished: https://bat.bing.com/action/0?ti=56343525&Ver=2&mid=0d6a9ab1-2033-4b05-aaac-ea5f6976835c&bo=1&sid=a6edc02005d911f0bbdc99b9a809e0d1&vid=a6edf44005d911f0968d73a6620e130b&vids=1&msclkid=N&pi=0&lg=en-GB&sw=384&sh=824&sc=24&nwd=1&tl=Expedia%20Travel%3A%20Vacation%20Homes,%20Hotels,%20Car%20Rentals,%20Flights%20%26%20More&p=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&r=&lt=3179&mtp=5&evt=pageLoad&sv=1&cdb=AQAQ&rn=644373 image
+2025-03-20T22:21:21.584Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.585Z Request: https://www.facebook.com/tr/?id=468990633205284&ev=homepage&dl=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&rl=&if=false&ts=1742509281540&cd[content_type]=product%2C%20hotel&cd[domain_lob]=Unknown&cd[external_id]=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&cd[device_type]=MOBILE&sw=384&sh=824&v=2.9.189&r=stable&ec=0&o=12317&fbp=fb.1.1742509281528.539663264455332429&ler=empty&cdl=API_unavailable&it=1742509281448&coo=false&eid=a03b52b1fc924dcc9b4681630e9cf801&chmd=SM-S918B&chpv=13.0.0&chfv=128.0.6613.146&exp=k2&rqm=GET image
+2025-03-20T22:21:21.586Z Request: https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=468990633205284&ev=homepage&dl=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&rl=&if=false&ts=1742509281540&cd[content_type]=product%2C%20hotel&cd[domain_lob]=Unknown&cd[external_id]=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&cd[device_type]=MOBILE&sw=384&sh=824&v=2.9.189&r=stable&ec=0&o=12317&fbp=fb.1.1742509281528.539663264455332429&ler=empty&cdl=API_unavailable&it=1742509281448&coo=false&eid=a03b52b1fc924dcc9b4681630e9cf801&chmd=SM-S918B&chpv=13.0.0&chfv=128.0.6613.146&exp=k2&rqm=FGET image
+2025-03-20T22:21:21.588Z Request Finished: https://www.google.com/ccm/collect?en=page_view&dl=https%3A%2F%2Fwww.expedia.com%2F&scrsrc=www.googletagmanager.com&frm=0&rnd=1867050134.1742509281&dt=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&auid=2019686719.1742509281&navt=n&npa=0&uid=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm=45be53j1v882129975za200&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&tft=1742509281485&tfd=3829&apve=1 ping
+2025-03-20T22:21:21.589Z Request Finished: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/619800534/?random=1742509281479&cv=11&fst=1742509281479&bg=ffffff&guid=ON&async=1&gtm=45be53j1v882129975za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config%3Bcd1%3DHomepage%3Bcd2%3DEXPEDIA_US%3Bcd3%3D0%3Bcd4%3DUnknown%3Bcd8%3DN&rfmt=3&fmt=4 script
+2025-03-20T22:21:21.589Z Request: https://www.google.com/pagead/1p-user-list/619800534/?random=1742509281479&cv=11&fst=1742508000000&bg=ffffff&guid=ON&async=1&gtm=45be53j1v882129975za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config%3Bcd1%3DHomepage%3Bcd2%3DEXPEDIA_US%3Bcd3%3D0%3Bcd4%3DUnknown%3Bcd8%3DN&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwCjtLzM2OLcSWx5iNtHgtZrkm5zxNZKrz-XXw&random=3213383773&rmt_tld=0&ipr=y image
+2025-03-20T22:21:21.590Z Request Finished: https://www.googletagmanager.com/static/service_worker/53k0/sw_iframe.html?origin=https%3A%2F%2Fwww.expedia.com document
+2025-03-20T22:21:21.591Z Request Finished: https://cdn.cookielaw.org/scripttemplates/202305.1.0/otBannerSdk.js script
+2025-03-20T22:21:21.591Z Request Finished: https://td.doubleclick.net/td/rul/619800534?random=1742509281479&cv=11&fst=1742509281479&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be53j1v882129975za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config%3Bcd1%3DHomepage%3Bcd2%3DEXPEDIA_US%3Bcd3%3D0%3Bcd4%3DUnknown%3Bcd8%3DN document
+2025-03-20T22:21:21.645Z Request: https://cdn.cookielaw.org/consent/634826f3-3ea8-4c02-8e82-05e6ffb4e293/2ab6e97e-be19-4457-8231-a81744c201d4/en.json fetch
+2025-03-20T22:21:21.646Z Request Finished: https://www.facebook.com/tr/?id=468990633205284&ev=homepage&dl=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&rl=&if=false&ts=1742509281540&cd[content_type]=product%2C%20hotel&cd[domain_lob]=Unknown&cd[external_id]=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&cd[device_type]=MOBILE&sw=384&sh=824&v=2.9.189&r=stable&ec=0&o=12317&fbp=fb.1.1742509281528.539663264455332429&ler=empty&cdl=API_unavailable&it=1742509281448&coo=false&eid=a03b52b1fc924dcc9b4681630e9cf801&chmd=SM-S918B&chpv=13.0.0&chfv=128.0.6613.146&exp=k2&rqm=GET image
+2025-03-20T22:21:21.647Z Request Finished: https://www.google.com/pagead/1p-user-list/619800534/?random=1742509281479&cv=11&fst=1742508000000&bg=ffffff&guid=ON&async=1&gtm=45be53j1v882129975za200&gcd=13t3t3t3t5l1&dma=0&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config%3Bcd1%3DHomepage%3Bcd2%3DEXPEDIA_US%3Bcd3%3D0%3Bcd4%3DUnknown%3Bcd8%3DN&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwCjtLzM2OLcSWx5iNtHgtZrkm5zxNZKrz-XXw&random=3213383773&rmt_tld=0&ipr=y image
+2025-03-20T22:21:21.648Z Request Finished: https://www.googletagmanager.com/gtag/js?id=DC-9163167&l=dataLayer&cx=c&gtm=45be53j1v882129975za200&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060 script
+2025-03-20T22:21:21.686Z Request Finished: https://www.googletagmanager.com/gtag/js?id=AW-786429470&l=dataLayer&cx=c&gtm=45be53j1v882129975za200&tag_exp=102308675~102482433~102788824~102803279~102813109~102814060 script
+2025-03-20T22:21:21.693Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.695Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.707Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.708Z Request Finished: https://t.promotionx.io/coordinator-123.js?cb=1742509200000 script
+2025-03-20T22:21:21.708Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:21.709Z Request: https://www.googletagmanager.com/gtag/destination?id=DC-9224405&l=dataLayer&cx=c&gtm=45be53j1v890415850za200zb882129975&tag_exp=102482433~102788824~102803279~102813109~102814060 script
+2025-03-20T22:21:21.709Z Request: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/786429470/?random=1742509281625&cv=11&fst=1742509281625&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=4 script
+2025-03-20T22:21:21.710Z Request: https://td.doubleclick.net/td/rul/786429470?random=1742509281625&cv=11&fst=1742509281625&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config document
+2025-03-20T22:21:21.710Z Request: https://www.googleadservices.com/pagead/conversion/786429470/?random=1742509281640&cv=11&fst=1742509281640&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&rfmt=3&fmt=4 script
+2025-03-20T22:21:21.711Z Request: https://td.doubleclick.net/td/rul/786429470?random=1742509281640&cv=11&fst=1742509281640&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&ct_cookie_present=0 document
+2025-03-20T22:21:21.711Z Request Finished: https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.711Z Request: https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3D649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.712Z Request Finished: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.713Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.732Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:21:21.733Z Request Finished: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.733Z Request Finished: https://cdn.cookielaw.org/consent/634826f3-3ea8-4c02-8e82-05e6ffb4e293/2ab6e97e-be19-4457-8231-a81744c201d4/en.json fetch
+2025-03-20T22:21:21.776Z Request: https://cdn.cookielaw.org/scripttemplates/202305.1.0/assets/otFlat.json fetch
+2025-03-20T22:21:21.779Z Request: https://cdn.cookielaw.org/scripttemplates/202305.1.0/assets/v2/otPcTab.json fetch
+2025-03-20T22:21:21.781Z Request: https://cdn.cookielaw.org/scripttemplates/202305.1.0/assets/otCommonStyles.css fetch
+2025-03-20T22:21:21.785Z Request Finished: https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=468990633205284&ev=homepage&dl=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&rl=&if=false&ts=1742509281540&cd[content_type]=product%2C%20hotel&cd[domain_lob]=Unknown&cd[external_id]=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&cd[device_type]=MOBILE&sw=384&sh=824&v=2.9.189&r=stable&ec=0&o=12317&fbp=fb.1.1742509281528.539663264455332429&ler=empty&cdl=API_unavailable&it=1742509281448&coo=false&eid=a03b52b1fc924dcc9b4681630e9cf801&chmd=SM-S918B&chpv=13.0.0&chfv=128.0.6613.146&exp=k2&rqm=FGET image
+2025-03-20T22:21:21.786Z Request Finished: https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3D649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.786Z Request: https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=7004659252744284840&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.787Z Request Finished: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/786429470/?random=1742509281625&cv=11&fst=1742509281625&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=4 script
+2025-03-20T22:21:21.787Z Request Finished: https://www.expedia.com/api/redirect-banner?siteid=1&langid=1033&_=7292039560574 fetch
+2025-03-20T22:21:21.788Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.791Z Request Finished: https://www.googletagmanager.com/gtag/destination?id=DC-9224405&l=dataLayer&cx=c&gtm=45be53j1v890415850za200zb882129975&tag_exp=102482433~102788824~102803279~102813109~102814060 script
+2025-03-20T22:21:21.791Z Request Finished: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.791Z Request: https://www.google.com/pagead/1p-user-list/786429470/?random=1742509281625&cv=11&fst=1742508000000&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSKQCjtLzMcPXPaqvP2Myjbex59y8k1T2Uzavy_OJVsQIQHg7zIZly3sA2&random=3327214358&rmt_tld=0&ipr=y image
+2025-03-20T22:21:21.792Z ## PAGE ERROR ##: Cannot read properties of undefined (reading 'ERROR')
+2025-03-20T22:21:21.792Z Request: https://9224405.fls.doubleclick.net/activityi;src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.792Z Request: https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=9;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.794Z Request: https://9224405.fls.doubleclick.net/activityi;src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.794Z Request: https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=9;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.796Z Request: https://ad.doubleclick.net/activity;register_conversion=1;src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=10;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? image
+2025-03-20T22:21:21.796Z Request: https://ad.doubleclick.net/activity;register_conversion=1;src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=10;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? image
+2025-03-20T22:21:21.796Z Request Finished: https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=7004659252744284840&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.797Z Request: https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=NjQ5ZTdjMmMtYjk1Ni00N2Q2LWFjNzctMTNmMDBlMmRmZjll&gdpr=0&gdpr_consent=&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.797Z Request Finished: https://www.google.com/pagead/1p-user-list/786429470/?random=1742509281625&cv=11&fst=1742508000000&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSKQCjtLzMcPXPaqvP2Myjbex59y8k1T2Uzavy_OJVsQIQHg7zIZly3sA2&random=3327214358&rmt_tld=0&ipr=y image
+2025-03-20T22:21:21.797Z Request Finished: https://www.googleadservices.com/pagead/conversion/786429470/?random=1742509281640&cv=11&fst=1742509281640&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&rfmt=3&fmt=4 script
+2025-03-20T22:21:21.813Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.814Z Request Finished: https://td.doubleclick.net/td/rul/786429470?random=1742509281625&cv=11&fst=1742509281625&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&fledge=1&data=event%3Dgtag.config document
+2025-03-20T22:21:21.816Z Request Finished: https://td.doubleclick.net/td/rul/786429470?random=1742509281640&cv=11&fst=1742509281640&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&ct_cookie_present=0 document
+2025-03-20T22:21:21.819Z Request: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/786429470/?random=184383740&cv=11&fst=1742509281640&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&fmt=3&ct_cookie_present=false&crd=CPLOsQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCJDJsQII08WxAgjrzLECCM_OsQIiAQFAAUoVZXZlbnQtc291cmNlLCB0cmlnZ2VyWgMKAQFiBAoCAgM&pscrd=CP_Zh522t8CJ6QEiEwj5lYL22JmMAxVihMsBHeRWAXwyDAgDYggIABAAGAAgADIMCARiCAgAEAAYACAAMgwIB2IICAAQABgAIAAyDAgIYggIABAAGAAgADIMCAliCAgAEAAYACAAMgwICmIICAAQABgAIAAyDAgCYggIABAAGAAgADIMCAtiCAgAEAAYACAAMgwIFWIICAAQABgAIAAyDAgfYggIABAAGAAgADIMCBNiCAgAEAAYACAAMgwIEmIICAAQABgAIAA6GGh0dHBzOi8vd3d3LmV4cGVkaWEuY29tL0JWQ2hFSThQbnV2Z1lRN0tyMHl2WENsc2VqQVJJckFBVnFtbXh2RVd5eGFQejJOaHZCZzRZUWJLcVN5NzdDT3JlWlBaM1dlazBWY256aWwyLXJiaWhNLWc image
+2025-03-20T22:21:21.868Z Request Finished: https://ad.doubleclick.net/activity;register_conversion=1;src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=10;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? image
+2025-03-20T22:21:21.868Z Request Finished: https://cdn.cookielaw.org/scripttemplates/202305.1.0/assets/otCommonStyles.css fetch
+2025-03-20T22:21:21.868Z Request Finished: https://cdn.cookielaw.org/scripttemplates/202305.1.0/assets/otFlat.json fetch
+2025-03-20T22:21:21.869Z Request Finished: https://cdn.cookielaw.org/scripttemplates/202305.1.0/assets/v2/otPcTab.json fetch
+2025-03-20T22:21:21.869Z Request Finished: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.869Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.870Z Request Finished: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.873Z Request: https://cdn.cookielaw.org/logos/static/ot_close.svg image
+2025-03-20T22:21:21.874Z Request: https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg fetch
+2025-03-20T22:21:21.875Z Request: https://cdn.cookielaw.org/logos/8853b8d3-a74b-44c9-acf8-8281507d5cc3/fb410dce-518b-46c6-b255-c987dcab42dc/5d3453a8-1b23-49c7-98ae-caa853c10ca9/Expedia_Horizontal_Logo_Product_Full_Colour_Dark_Blue_RGB.png image
+2025-03-20T22:21:21.876Z Request: https://cdn.cookielaw.org/logos/static/powered_by_logo.svg image
+2025-03-20T22:21:21.876Z Request Finished: https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=NjQ5ZTdjMmMtYjk1Ni00N2Q2LWFjNzctMTNmMDBlMmRmZjll&gdpr=0&gdpr_consent=&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e image
+2025-03-20T22:21:21.877Z Request: https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e&google_gid=CAESELo3ux0bPWC34FNfKRcRUK0&google_cver=1 image
+2025-03-20T22:21:21.878Z Request Finished: https://googleads.g.doubleclick.net/pagead/viewthroughconversion/786429470/?random=184383740&cv=11&fst=1742509281640&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&fmt=3&ct_cookie_present=false&crd=CPLOsQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCJDJsQII08WxAgjrzLECCM_OsQIiAQFAAUoVZXZlbnQtc291cmNlLCB0cmlnZ2VyWgMKAQFiBAoCAgM&pscrd=CP_Zh522t8CJ6QEiEwj5lYL22JmMAxVihMsBHeRWAXwyDAgDYggIABAAGAAgADIMCARiCAgAEAAYACAAMgwIB2IICAAQABgAIAAyDAgIYggIABAAGAAgADIMCAliCAgAEAAYACAAMgwICmIICAAQABgAIAAyDAgCYggIABAAGAAgADIMCAtiCAgAEAAYACAAMgwIFWIICAAQABgAIAAyDAgfYggIABAAGAAgADIMCBNiCAgAEAAYACAAMgwIEmIICAAQABgAIAA6GGh0dHBzOi8vd3d3LmV4cGVkaWEuY29tL0JWQ2hFSThQbnV2Z1lRN0tyMHl2WENsc2VqQVJJckFBVnFtbXh2RVd5eGFQejJOaHZCZzRZUWJLcVN5NzdDT3JlWlBaM1dlazBWY256aWwyLXJiaWhNLWc image
+2025-03-20T22:21:21.879Z Request: https://www.google.com/pagead/1p-conversion/786429470/?random=184383740&cv=11&fst=1742509281640&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&fmt=3&ct_cookie_present=false&crd=CPLOsQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCJDJsQII08WxAgjrzLECCM_OsQIiAQFAAUoVZXZlbnQtc291cmNlLCB0cmlnZ2VyWgMKAQFiBAoCAgM&pscrd=CP_Zh522t8CJ6QEiEwj5lYL22JmMAxVihMsBHeRWAXwyDAgDYggIABAAGAAgADIMCARiCAgAEAAYACAAMgwIB2IICAAQABgAIAAyDAgIYggIABAAGAAgADIMCAliCAgAEAAYACAAMgwICmIICAAQABgAIAAyDAgCYggIABAAGAAgADIMCAtiCAgAEAAYACAAMgwIFWIICAAQABgAIAAyDAgfYggIABAAGAAgADIMCBNiCAgAEAAYACAAMgwIEmIICAAQABgAIAA6GGh0dHBzOi8vd3d3LmV4cGVkaWEuY29tL0JWQ2hFSThQbnV2Z1lRN0tyMHl2WENsc2VqQVJJckFBVnFtbXh2RVd5eGFQejJOaHZCZzRZUWJLcVN5NzdDT3JlWlBaM1dlazBWY256aWwyLXJiaWhNLWc&is_vtc=1&cid=CAQSKQCjtLzMKLdzxTwxPyq0Hm91Pn5YZN4rufftOsnqvSxDSGoU23Dq98QQ&random=4234293447 image
+2025-03-20T22:21:21.879Z Request: https://vacadapter.vap.expedia.com/current/vacClientAdapter.js script
+2025-03-20T22:21:21.880Z Request Finished: https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=9;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.881Z Request Finished: https://td.doubleclick.net/td/fls/rul/activityi;fledge=1;src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=9;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.881Z Request: https://adservice.google.com/ddm/fls/z/src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=*;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog image
+2025-03-20T22:21:21.888Z Request: https://adservice.google.com/ddm/fls/z/src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=*;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog image
+2025-03-20T22:21:21.889Z Request Finished: https://cdn.cookielaw.org/logos/static/ot_close.svg image
+2025-03-20T22:21:21.889Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:21.890Z Request Finished: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:21.890Z Request Finished: https://9224405.fls.doubleclick.net/activityi;src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.890Z Request Finished: https://9224405.fls.doubleclick.net/activityi;src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? document
+2025-03-20T22:21:21.891Z Request: https://www.expedia.com/egcs/v2/collect fetch
+2025-03-20T22:21:21.892Z Request: https://www.expedia.com/egcs/v2/collect fetch
+2025-03-20T22:21:21.893Z Request Finished: https://cdn.cookielaw.org/logos/static/powered_by_logo.svg image
+2025-03-20T22:21:21.894Z Request Finished: https://ad.doubleclick.net/activity;register_conversion=1;src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=2019686719.1742509281;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=10;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog? image
+2025-03-20T22:21:21.894Z Request Finished: https://cdn.cookielaw.org/logos/8853b8d3-a74b-44c9-acf8-8281507d5cc3/fb410dce-518b-46c6-b255-c987dcab42dc/5d3453a8-1b23-49c7-98ae-caa853c10ca9/Expedia_Horizontal_Logo_Product_Full_Colour_Dark_Blue_RGB.png image
+2025-03-20T22:21:21.930Z Request Finished: https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg fetch
+2025-03-20T22:21:21.931Z Request Finished: https://adservice.google.com/ddm/fls/z/src=9224405;type=globm1;cat=globa002;ord=1;num=8711552180576;npa=0;auiddc=*;ps=1;pcor=1670820503;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog image
+2025-03-20T22:21:21.932Z Request Finished: https://www.trvl-px.com/trvl-px/v2/get fetch
+2025-03-20T22:21:21.932Z Request: https://www.hotels.com/trvl-px/v2/get fetch
+2025-03-20T22:21:21.933Z Request Finished: https://adservice.google.com/ddm/fls/z/src=9224405;type=globm1;cat=globa0;ord=4906474635570;npa=0;auiddc=*;ps=1;pcor=1197074705;uaa=;uab=;uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146;uamb=1;uam=SM-S918B;uap=Android;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe53j1v9181621572za200zb890415850;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=1;tag_exp=102482433~102788824~102803279~102813109~102814060;epver=2;~oref=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog image
+2025-03-20T22:21:21.934Z Request Finished: https://www.google.com/pagead/1p-conversion/786429470/?random=184383740&cv=11&fst=1742509281640&bg=ffffff&guid=ON&async=1&gtm=45be53j1v890415850za200zb882129975&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=102482433~102788824~102803279~102813109~102814060&u_w=384&u_h=824&url=https%3A%2F%2Fwww.expedia.com%2F%3F%3Dcustomer-notification-centered-sheet-dialog&label=fm4aCPmcpsICEJ7s__YC&hn=www.googleadservices.com&frm=0&tiba=Expedia%20Travel%3A%20Vacation%20Homes%2C%20Hotels%2C%20Car%20Rentals%2C%20Flights%20%26%20More&userId=4c5276a5-a155-4bef-9974-5a8a7bbaa5d3&gtm_ee=1&npa=0&pscdl=noapi&auid=2019686719.1742509281&uaa=&uab=&uafvl=Chromium%3B128.0.6613.146%7CNot%253BA%253DBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B128.0.6613.146&uamb=1&uam=SM-S918B&uap=Android&uapv=13.0.0&uaw=0&ec_mode=a&fledge=1&capi=1&data=event%3Dconversion&em=tv.1&fmt=3&ct_cookie_present=false&crd=CPLOsQIIscGxAgiwwbECCLHDsQIIisWxAgjCybECCJDJsQII08WxAgjrzLECCM_OsQIiAQFAAUoVZXZlbnQtc291cmNlLCB0cmlnZ2VyWgMKAQFiBAoCAgM&pscrd=CP_Zh522t8CJ6QEiEwj5lYL22JmMAxVihMsBHeRWAXwyDAgDYggIABAAGAAgADIMCARiCAgAEAAYACAAMgwIB2IICAAQABgAIAAyDAgIYggIABAAGAAgADIMCAliCAgAEAAYACAAMgwICmIICAAQABgAIAAyDAgCYggIABAAGAAgADIMCAtiCAgAEAAYACAAMgwIFWIICAAQABgAIAAyDAgfYggIABAAGAAgADIMCBNiCAgAEAAYACAAMgwIEmIICAAQABgAIAA6GGh0dHBzOi8vd3d3LmV4cGVkaWEuY29tL0JWQ2hFSThQbnV2Z1lRN0tyMHl2WENsc2VqQVJJckFBVnFtbXh2RVd5eGFQejJOaHZCZzRZUWJLcVN5NzdDT3JlWlBaM1dlazBWY256aWwyLXJiaWhNLWc&is_vtc=1&cid=CAQSKQCjtLzMKLdzxTwxPyq0Hm91Pn5YZN4rufftOsnqvSxDSGoU23Dq98QQ&random=4234293447 image
+2025-03-20T22:21:21.935Z Request Finished: https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=649e7c2c-b956-47d6-ac77-13f00e2dff9e&google_gid=CAESELo3ux0bPWC34FNfKRcRUK0&google_cver=1 image
+2025-03-20T22:21:21.936Z Request: https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=649e7c2c-b956-47d6-ac77-13f00e2dff9e&expiration=1745101281&gdpr=0&gdpr_consent= image
+2025-03-20T22:21:21.969Z Request Finished: https://www.expedia.com/graphql fetch
+2025-03-20T22:21:22.018Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:21:22.019Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:22.019Z ## PAGE ERROR ##: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2025-03-20T22:21:22.020Z Request Finished: https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=649e7c2c-b956-47d6-ac77-13f00e2dff9e&expiration=1745101281&gdpr=0&gdpr_consent= image
+2025-03-20T22:21:22.023Z Request: https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=649e7c2c-b956-47d6-ac77-13f00e2dff9e&expiration=1745101281&gdpr=0&gdpr_consent=&C=1 image
+2025-03-20T22:21:22.024Z Request Finished: https://www.hotels.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.025Z Request: https://www.orbitz.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.059Z Request Finished: https://www.expedia.com/egcs/v2/collect fetch
+2025-03-20T22:21:22.060Z Request Finished: https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=649e7c2c-b956-47d6-ac77-13f00e2dff9e&expiration=1745101281&gdpr=0&gdpr_consent=&C=1 image
+2025-03-20T22:21:22.060Z Request Finished: https://www.expedia.com/egcs/v2/collect fetch
+2025-03-20T22:21:22.103Z Request Finished: https://vacadapter.vap.expedia.com/current/vacClientAdapter.js script
+2025-03-20T22:21:22.144Z Request: https://vac.vap.expedia.com/2.11.0/vacLogger.js script
+2025-03-20T22:21:22.145Z Request: https://vap.expedia.com/vacservice/public/partners/expedia/virtualagentcontrols/default_vac/getScript script
+2025-03-20T22:21:22.230Z Request Finished: https://www.orbitz.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.231Z Request: https://www.travelocity.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.282Z Request Finished: https://vac.vap.expedia.com/2.11.0/vacLogger.js script
+2025-03-20T22:21:22.334Z Request Finished: https://vap.expedia.com/vacservice/public/partners/expedia/virtualagentcontrols/default_vac/getScript script
+2025-03-20T22:21:22.335Z Request: https://vac.vap.expedia.com/3.92.0/virtualAgentControl.js script
+2025-03-20T22:21:22.370Z Request Finished: https://vac.vap.expedia.com/3.92.0/virtualAgentControl.js script
+2025-03-20T22:21:22.474Z Request: https://vap.expedia.com/vaclog/log xhr
+2025-03-20T22:21:22.475Z Request: https://vac.vap.expedia.com/3.92.0/assets/content/en.js script
+2025-03-20T22:21:22.476Z Request: https://vap.expedia.com/vacservice/api/v2/channelorigins/10004-20003-chat-9/aggregateConfig?languageId=en_US&version=3.92.0&shouldGetChannelConfig=false&shouldGetWebsocketCredentials=true&enableDefaultAuthProvider=false&clientId=92beb3fc-fb2f-4f7e-9e69-2b474c41e6ef_Prod_guest&localTime=1742509282406 xhr
+2025-03-20T22:21:22.476Z Request Finished: https://www.travelocity.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.477Z Request: https://www.vrbo.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.510Z Request Finished: https://vac.vap.expedia.com/3.92.0/assets/content/en.js script
+2025-03-20T22:21:22.510Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:22.511Z Event Load: https://www.expedia.com/?=customer-notification-centered-sheet-dialog
+2025-03-20T22:21:22.519Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:22.587Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:21:22.624Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:22.627Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:21:22.628Z ## PAGE ERROR ##: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2025-03-20T22:21:22.765Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:21:22.766Z ## PAGE ERROR ##: Unexpected token '<', "<html>
+   "... is not valid JSON
+2025-03-20T22:21:22.766Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:21:22.771Z ## PAGE ERROR ##: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2025-03-20T22:21:22.772Z Request Finished: https://www.vrbo.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.773Z Request: https://www.homeaway.com/trvl-px/v2/get fetch
+2025-03-20T22:21:22.773Z Request Finished: https://vap.expedia.com/vaclog/log xhr
