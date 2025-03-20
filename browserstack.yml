@@ -1,5 +1,6 @@
 userName: ${BROWSERSTACK_USERNAME}
 accessKey: ${BROWSERSTACK_ACCESS_KEY}
+build: ${{GITHUB_RUN_NUMBER}}
 framework: playwright
 platforms:
   - os: Windows
