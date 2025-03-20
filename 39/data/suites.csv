@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6558","Basic Smoke Test - Title Check","playwright-webkit-latest:OSX Ventura-browserstack","Thu Mar 20 23:39:02 GMT 2025","passed","Thu Mar 20 23:39:08 GMT 2025","","tests/smoke.spec.ts","",""
+"","10296","Basic Smoke Test - Title Check","chrome-Samsung Galaxy S23 Ultra:13-browserstack-mobile","Thu Mar 20 23:39:02 GMT 2025","passed","Thu Mar 20 23:39:12 GMT 2025","","tests/smoke.spec.ts","",""
+"","17593","Basic Smoke Test - Title Check","chrome-latest:Windows 10-browserstack","Thu Mar 20 23:39:02 GMT 2025","failed","Thu Mar 20 23:39:19 GMT 2025","","tests/smoke.spec.ts","",""
