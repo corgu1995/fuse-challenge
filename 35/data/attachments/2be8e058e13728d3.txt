@@ -1,0 +1,125 @@
+2025-03-20T22:05:53.230Z Request: https://www.expedia.com/ document
+2025-03-20T22:05:53.384Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:05:53.395Z Request: https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=undefined image
+2025-03-20T22:05:53.396Z Request: https://c.travel-assets.com/captcha-pwa/core.a14924e7e0b90a2782e5.js script
+2025-03-20T22:05:53.397Z Request: https://c.travel-assets.com/captcha-pwa/bernie.52e0c8c62c0f750df714.js script
+2025-03-20T22:05:53.398Z Request: https://c.travel-assets.com/captcha-pwa/graphql.73f1d95835ef7f5a6e32.js script
+2025-03-20T22:05:53.401Z Request: https://c.travel-assets.com/captcha-pwa/pap.0bacf1f19a1b5a282601.js script
+2025-03-20T22:05:53.402Z Request: https://c.travel-assets.com/captcha-pwa/shared-ui.4bed6f3a04e6490654d2.js script
+2025-03-20T22:05:53.402Z Request: https://c.travel-assets.com/captcha-pwa/vendor.c3007e6842655eccc7be.js script
+2025-03-20T22:05:53.404Z Request: https://c.travel-assets.com/captcha-pwa/app.ab360185ed92fdb7ddd6.js script
+2025-03-20T22:05:53.404Z Request: https://c.travel-assets.com/captcha-pwa/egds.6b15716e94d17f69a71f.js script
+2025-03-20T22:05:53.405Z Request: https://c.travel-assets.com/captcha-pwa/root-challenge.9f228211ec70ad90b036.js script
+2025-03-20T22:05:53.405Z Request: https://c.travel-assets.com/captcha-pwa/l10nBundle/en_US.18852363aea2d7ca08f9.js script
+2025-03-20T22:05:53.407Z Request Finished: https://www.expedia.com/ document
+2025-03-20T22:05:53.431Z Request: https://www.expedia.com/cgp/simple/challenge.initial.styles stylesheet
+2025-03-20T22:05:53.432Z Request: https://www.expedia.com/cgp/simple/challenge.dynamic.styles stylesheet
+2025-03-20T22:05:53.433Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:05:53.441Z Event Console: WARNING: siteId must be Integer!
+2025-03-20T22:05:53.442Z Request Finished: https://www.expedia.com/_dms/header/logo.svg?locale=en_US&siteid=undefined image
+2025-03-20T22:05:53.502Z Request: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Medium.woff2 font
+2025-03-20T22:05:53.503Z Request: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Book.woff2 font
+2025-03-20T22:05:53.504Z Request Finished: https://www.expedia.com/cgp/simple/challenge.dynamic.styles stylesheet
+2025-03-20T22:05:53.504Z Request Finished: https://www.expedia.com/cgp/simple/challenge.initial.styles stylesheet
+2025-03-20T22:05:53.506Z Request Finished: https://c.travel-assets.com/captcha-pwa/l10nBundle/en_US.18852363aea2d7ca08f9.js script
+2025-03-20T22:05:53.508Z Request Finished: https://c.travel-assets.com/captcha-pwa/core.a14924e7e0b90a2782e5.js script
+2025-03-20T22:05:53.510Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:05:53.511Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:05:53.512Z Request Finished: https://c.travel-assets.com/captcha-pwa/bernie.52e0c8c62c0f750df714.js script
+2025-03-20T22:05:53.514Z Request Finished: https://c.travel-assets.com/captcha-pwa/shared-ui.4bed6f3a04e6490654d2.js script
+2025-03-20T22:05:53.515Z Request Finished: https://c.travel-assets.com/captcha-pwa/graphql.73f1d95835ef7f5a6e32.js script
+2025-03-20T22:05:53.516Z Request Finished: https://c.travel-assets.com/captcha-pwa/root-challenge.9f228211ec70ad90b036.js script
+2025-03-20T22:05:53.517Z Request Finished: https://c.travel-assets.com/captcha-pwa/pap.0bacf1f19a1b5a282601.js script
+2025-03-20T22:05:53.589Z Request Finished: https://c.travel-assets.com/captcha-pwa/egds.6b15716e94d17f69a71f.js script
+2025-03-20T22:05:53.590Z Request Finished: https://c.travel-assets.com/captcha-pwa/app.ab360185ed92fdb7ddd6.js script
+2025-03-20T22:05:53.590Z Request Finished: https://c.travel-assets.com/captcha-pwa/vendor.c3007e6842655eccc7be.js script
+2025-03-20T22:05:53.655Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:05:53.656Z Request: https://c.travel-assets.com/captcha-pwa/brand-10112011210110010597.cf38e06fda4139403201.js script
+2025-03-20T22:05:53.656Z Event DOMContentLoad: https://www.expedia.com/
+2025-03-20T22:05:53.657Z Request Finished: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Book.woff2 font
+2025-03-20T22:05:53.658Z Request Finished: https://a.travel-assets.com/egds/fonts/CentraNo2/CentraNo2-Medium.woff2 font
+2025-03-20T22:05:53.701Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:05:53.701Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:05:53.766Z Request Finished: https://c.travel-assets.com/captcha-pwa/brand-10112011210110010597.cf38e06fda4139403201.js script
+2025-03-20T22:05:53.831Z Request: https://dpm.demdex.net/id?d_visid_ver=4.4.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=C00802BE5330A8350A490D4C%40AdobeOrg&d_nsid=0&ts=1742508356158 xhr
+2025-03-20T22:05:53.832Z Request: https://www.expedia.com/cl/1x1.gif?gcoAgent=false&live=true&pageName=unknown&guid=ddb8f0d2-0f18-4992-8bc8-44bbe58d9ff1&logTime=2025-03-20T22:05:56.162Z&sessionDuration=0&action=logTrxEvent&navTiming_elapsedTime=NaN&unloadTime=NaN&redirectTime=NaN&dnsTime=36&connectionTime=7&requestTime=99&responseTime=4&parsingTime=130&domReadyCallbackTime=0&onLdCallbackTime=NaN&processingTime=NaN&navigationToResponse=144&navigationToDomContentLoaded=426&navigationToOnLd=NaN&fetchToResponse=143&fetchToDomContentLoaded=425&fetchToOnLd=NaN&responseToDomContentLoaded=282&responseToOnLd=NaN&navigationToDomInteractive=284&pageUsableTime=282 image
+2025-03-20T22:05:53.832Z Request: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:05:53.833Z Event Console: PlatformAnalyticsPrime: pageIdentity not available in PlatformAnalytics instance
+2025-03-20T22:05:53.834Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:05:53.835Z Event Console: PlatformAnalyticsPrime: pageIdentity not available in PlatformAnalytics instance
+2025-03-20T22:05:53.836Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:05:53.836Z Event Console: PlatformAnalyticsPrime: pageIdentity not available in PlatformAnalytics instance
+2025-03-20T22:05:53.837Z Request: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:05:53.847Z Request: https://www.expedia.com/cgp/simple/challenge.hydrated.styles stylesheet
+2025-03-20T22:05:53.848Z Request: https://expedia-api.arkoselabs.com/v2/33C384C0-7DE5-4243-80DB-2C5E35802C15/api.js script
+2025-03-20T22:05:53.848Z Request: https://js.datadome.co/tags.js script
+2025-03-20T22:05:53.886Z Request Finished: https://dpm.demdex.net/id?d_visid_ver=4.4.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=C00802BE5330A8350A490D4C%40AdobeOrg&d_nsid=0&ts=1742508356158 xhr
+2025-03-20T22:05:53.887Z Request: https://dpm.demdex.net/id/rd?d_visid_ver=4.4.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=C00802BE5330A8350A490D4C%40AdobeOrg&d_nsid=0&ts=1742508356158 xhr
+2025-03-20T22:05:53.906Z Request: https://oms.expedia.com/id?d_visid_ver=4.4.0&d_fieldgroup=A&mcorgid=C00802BE5330A8350A490D4C%40AdobeOrg&mid=56727022254548445902244434460316222599&ts=1742508356255 xhr
+2025-03-20T22:05:53.906Z Request Finished: https://dpm.demdex.net/id/rd?d_visid_ver=4.4.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=C00802BE5330A8350A490D4C%40AdobeOrg&d_nsid=0&ts=1742508356158 xhr
+2025-03-20T22:05:53.911Z Request Finished: https://js.datadome.co/tags.js script
+2025-03-20T22:05:53.923Z Event Console:  
+2025-03-20T22:05:53.939Z Request: blob:https://www.expedia.com/4c81adf7-9925-4cf7-a50b-0a6fe3069204 other
+2025-03-20T22:05:53.941Z Request Finished: https://expedia-api.arkoselabs.com/v2/33C384C0-7DE5-4243-80DB-2C5E35802C15/api.js script
+2025-03-20T22:05:53.967Z Request: https://expedia-api.arkoselabs.com/v2/2.11.6/enforcement.f9e933a9f186f0bdb8e44dd39534e940.html document
+2025-03-20T22:05:53.982Z Request Finished: blob:https://www.expedia.com/4c81adf7-9925-4cf7-a50b-0a6fe3069204 other
+2025-03-20T22:05:53.983Z ## REQUEST FAILED ##: https://oms.expedia.com/id?d_visid_ver=4.4.0&d_fieldgroup=A&mcorgid=C00802BE5330A8350A490D4C%40AdobeOrg&mid=56727022254548445902244434460316222599&ts=1742508356255 xhr
+2025-03-20T22:05:53.984Z Event Console: Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2025-03-20T22:05:54.019Z Request: https://api-js.datadome.co/js/ xhr
+2025-03-20T22:05:54.053Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:05:54.066Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:05:54.067Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:05:54.068Z Request Finished: https://www.expedia.com/cl/2x2.json ping
+2025-03-20T22:05:54.069Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:05:54.069Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:05:54.074Z Event Console: Failed to load resource: the server responded with a status of 429 ()
+2025-03-20T22:05:54.074Z Request Finished: https://www.expedia.com/api/uisprime/track xhr
+2025-03-20T22:05:54.075Z ## PAGE ERROR ##: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2025-03-20T22:05:54.078Z ## PAGE ERROR ##: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2025-03-20T22:05:54.079Z ## PAGE ERROR ##: UIS (/api/uisprime/track)replied with HTTP status code: 429
+2025-03-20T22:05:54.082Z Request Finished: https://www.expedia.com/cl/1x1.gif?gcoAgent=false&live=true&pageName=unknown&guid=ddb8f0d2-0f18-4992-8bc8-44bbe58d9ff1&logTime=2025-03-20T22:05:56.162Z&sessionDuration=0&action=logTrxEvent&navTiming_elapsedTime=NaN&unloadTime=NaN&redirectTime=NaN&dnsTime=36&connectionTime=7&requestTime=99&responseTime=4&parsingTime=130&domReadyCallbackTime=0&onLdCallbackTime=NaN&processingTime=NaN&navigationToResponse=144&navigationToDomContentLoaded=426&navigationToOnLd=NaN&fetchToResponse=143&fetchToDomContentLoaded=425&fetchToOnLd=NaN&responseToDomContentLoaded=282&responseToOnLd=NaN&navigationToDomInteractive=284&pageUsableTime=282 image
+2025-03-20T22:05:54.084Z Request Finished: https://www.expedia.com/cgp/simple/challenge.hydrated.styles stylesheet
+2025-03-20T22:05:54.085Z Request: https://expedia-api.arkoselabs.com/v2/2.11.6/enforcement.f9e933a9f186f0bdb8e44dd39534e940.js script
+2025-03-20T22:05:54.085Z Request Finished: https://expedia-api.arkoselabs.com/v2/2.11.6/enforcement.f9e933a9f186f0bdb8e44dd39534e940.html document
+2025-03-20T22:05:54.101Z Request Finished: https://api-js.datadome.co/js/ xhr
+2025-03-20T22:05:54.102Z Request: https://www.expedia.com/botOrNot/initial-validate fetch
+2025-03-20T22:05:54.126Z Request Finished: https://expedia-api.arkoselabs.com/v2/2.11.6/enforcement.f9e933a9f186f0bdb8e44dd39534e940.js script
+2025-03-20T22:05:54.178Z Event Load: https://www.expedia.com/
+2025-03-20T22:05:54.216Z Request: https://expedia-api.arkoselabs.com/v2/33C384C0-7DE5-4243-80DB-2C5E35802C15/settings fetch
+2025-03-20T22:05:54.220Z Event Console: Error
+2025-03-20T22:05:54.244Z Request Finished: https://www.expedia.com/botOrNot/initial-validate fetch
+2025-03-20T22:05:54.720Z Event Console: [GroupMarkerNotSet(crbug.com/242999)!:A0C02500940A0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+2025-03-20T22:05:54.725Z Request Finished: https://expedia-api.arkoselabs.com/v2/33C384C0-7DE5-4243-80DB-2C5E35802C15/settings fetch
+2025-03-20T22:05:54.765Z Request: https://expedia-api.arkoselabs.com/fc/gt2/public_key/33C384C0-7DE5-4243-80DB-2C5E35802C15 xhr
+2025-03-20T22:05:54.941Z Request: https://expedia-api.arkoselabs.com/cdn/fc/assets/ec-game-core/bootstrap/1.27.4/standard/game_core_bootstrap.js script
+2025-03-20T22:05:54.942Z Request Finished: https://expedia-api.arkoselabs.com/fc/gt2/public_key/33C384C0-7DE5-4243-80DB-2C5E35802C15 xhr
+2025-03-20T22:05:54.968Z Request Finished: https://expedia-api.arkoselabs.com/cdn/fc/assets/ec-game-core/bootstrap/1.27.4/standard/game_core_bootstrap.js script
+2025-03-20T22:05:55.002Z Request: https://expedia-api.arkoselabs.com/fc/init-load/?session_token=930182ea21d744ce7.9559723501 fetch
+2025-03-20T22:05:55.003Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/index.html?session=930182ea21d744ce7.9559723501&r=us-east-1&meta=3&metabgclr=%23ffffff&metaiconclr=%23757575&guitextcolor=%23000000&lang=en&pk=33C384C0-7DE5-4243-80DB-2C5E35802C15&at=40&ag=101&cdn_url=https%3A%2F%2Fexpedia-api.arkoselabs.com%2Fcdn%2Ffc&surl=https%3A%2F%2Fexpedia-api.arkoselabs.com&smurl=https%3A%2F%2Fexpedia-api.arkoselabs.com%2Fcdn%2Ffc%2Fassets%2Fstyle-manager&theme=default document
+2025-03-20T22:05:55.029Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/main.61673b4cddd160b24bf1.js script
+2025-03-20T22:05:55.030Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/index.html?session=930182ea21d744ce7.9559723501&r=us-east-1&meta=3&metabgclr=%23ffffff&metaiconclr=%23757575&guitextcolor=%23000000&lang=en&pk=33C384C0-7DE5-4243-80DB-2C5E35802C15&at=40&ag=101&cdn_url=https%3A%2F%2Fexpedia-api.arkoselabs.com%2Fcdn%2Ffc&surl=https%3A%2F%2Fexpedia-api.arkoselabs.com&smurl=https%3A%2F%2Fexpedia-api.arkoselabs.com%2Fcdn%2Ffc%2Fassets%2Fstyle-manager&theme=default document
+2025-03-20T22:05:55.058Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/main.61673b4cddd160b24bf1.js script
+2025-03-20T22:05:55.069Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/lib.chunk.9b447da32f046f041a0d.js script
+2025-03-20T22:05:55.070Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/320.vendors.cca9b16e97778e82aac7.js script
+2025-03-20T22:05:55.070Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/378.chunk.f0a2586fcd8ad6999fc7.js script
+2025-03-20T22:05:55.071Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/542.vendors.abe0e64e95582406fe38.js script
+2025-03-20T22:05:55.071Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/924.vendors.ea33e7ebaefd19354536.js script
+2025-03-20T22:05:55.072Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/571.chunk.c8c8fa744d74f402924a.js script
+2025-03-20T22:05:55.078Z Request: https://expedia-api.arkoselabs.com/fc/gfct/ fetch
+2025-03-20T22:05:55.079Z ## REQUEST FAILED ##: https://expedia-api.arkoselabs.com/fc/init-load/?session_token=930182ea21d744ce7.9559723501 fetch
+2025-03-20T22:05:55.099Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/lib.chunk.9b447da32f046f041a0d.js script
+2025-03-20T22:05:55.111Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/378.chunk.f0a2586fcd8ad6999fc7.js script
+2025-03-20T22:05:55.118Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/924.vendors.ea33e7ebaefd19354536.js script
+2025-03-20T22:05:55.126Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/320.vendors.cca9b16e97778e82aac7.js script
+2025-03-20T22:05:55.140Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/542.vendors.abe0e64e95582406fe38.js script
+2025-03-20T22:05:55.141Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/game-core/1.27.4/standard/571.chunk.c8c8fa744d74f402924a.js script
+2025-03-20T22:05:55.237Z Request Finished: https://expedia-api.arkoselabs.com/fc/gfct/ fetch
+2025-03-20T22:05:55.267Z Request: https://expedia-api.arkoselabs.com/fc/a/ fetch
+2025-03-20T22:05:55.268Z Request: https://expedia-api.arkoselabs.com/cdn/fc/assets/style-manager/styles/1dee1b7a-b7d3-4f3f-a6c0-a20a135968a7.css stylesheet
+2025-03-20T22:05:55.290Z Request: https://expedia-api.arkoselabs.com/fc/a/ fetch
+2025-03-20T22:05:55.291Z Request Finished: https://expedia-api.arkoselabs.com/cdn/fc/assets/style-manager/styles/1dee1b7a-b7d3-4f3f-a6c0-a20a135968a7.css stylesheet
+2025-03-20T22:05:55.292Z Request: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/match-game/1.27.4/standard/remoteEntry.js script
+2025-03-20T22:05:55.297Z Request Finished: https://expedia-api.arkoselabs.com/fc/assets/ec-game-core/match-game/1.27.4/standard/remoteEntry.js script
+2025-03-20T22:05:55.299Z Request Finished: https://expedia-api.arkoselabs.com/fc/a/ fetch
+2025-03-20T22:05:55.315Z Request Finished: https://expedia-api.arkoselabs.com/fc/a/ fetch
+2025-03-20T22:06:03.665Z Event Console: Download the Apollo DevTools for a better development experience: %s https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
