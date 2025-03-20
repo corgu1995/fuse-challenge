@@ -34,3 +34,7 @@ storageState.json
 
 # BrowserStack
 log/
+
+# AI outputs
+ai-insights.txt
+executionlogs.txt

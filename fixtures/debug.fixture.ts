@@ -6,34 +6,51 @@ import {
   Request,
   test as base,
 } from '@playwright/test';
+import * as fs from 'fs';
+import * as path from 'path';
+
+const logFile = path.join(__dirname, '../executionlogs.txt');
 
 type LogSeverity = 'verbose' | 'info' | 'warning' | 'error';
 
 const getDate = (): string => new Date().toISOString();
 
+const writeLog = (message: string) => {
+  fs.appendFileSync(logFile, `${message}\n`);
+};
+
 const createLogger = (nameFilter: string): Logger => ({
   isEnabled: (name: string) => name === nameFilter,
   // eslint-disable-next-line
-  log: (name: string, severity: LogSeverity, message: string, args: any[]) =>
-    console.log(`${name} ${severity} ${message} ${args.join(' ')}`),
+  log: (name: string, severity: LogSeverity, message: string, args: any[]) => {
+    const logMessage = `${name} ${severity} ${message} ${args.join(' ')}`;
+    console.log(logMessage);
+    writeLog(logMessage);
+  },
 });
 
 const logPageEvent = (page: Page, label: string) => {
-  console.log(`${getDate()} ${label}: ${page.url()}`);
+  const logMessage = `${getDate()} ${label}: ${page.url()}`;
+  console.log(logMessage);
+  writeLog(logMessage);
 };
 
 const logConsoleMessage = (message: ConsoleMessage) => {
-  console.log(`${getDate()} Event Console: ${message.text()}`);
+  const logMessage = `${getDate()} Event Console: ${message.text()}`;
+  console.log(logMessage);
+  writeLog(logMessage);
 };
 
 const logPageError = (error: Error) => {
-  console.log(`${getDate()} ## PAGE ERROR ##: ${error.message}`);
+  const logMessage = `${getDate()} ## PAGE ERROR ##: ${error.message}`;
+  console.log(logMessage);
+  writeLog(logMessage);
 };
 
 const logRequestEvent = (request: Request, label: string) => {
-  console.log(
-    `${getDate()} ${label}: ${request.url()} ${request.resourceType()}`,
-  );
+  const logMessage = `${getDate()} ${label}: ${request.url()} ${request.resourceType()}`;
+  console.log(logMessage);
+  writeLog(logMessage);
 };
 
 export const test = base.extend<{

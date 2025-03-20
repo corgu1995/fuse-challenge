@@ -19,6 +19,9 @@ importers:
       '@typescript-eslint/parser':
         specifier: ^8.26.1
         version: 8.26.1(eslint@9.22.0)(typescript@5.8.2)
+      allure-js-commons:
+        specifier: ^3.2.0
+        version: 3.2.0(allure-playwright@3.2.0(@playwright/test@1.51.1))
       allure-playwright:
         specifier: ^3.2.0
         version: 3.2.0(@playwright/test@1.51.1)
